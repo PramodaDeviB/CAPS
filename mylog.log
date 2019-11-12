@@ -1,0 +1,1429 @@
+2019-08-27 12:26:51,255 INFO:filesystem encoding: mbcs
+2019-08-27 12:26:51,256 ERROR:Error: Unable to find file test_files/README
+2019-08-27 12:28:50,592 INFO:filesystem encoding: mbcs
+2019-08-27 12:28:50,592 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 3, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-08-27 12:28:50,592 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-08-27 12:28:52,585 INFO:[create_attachment] Attachment created: 4bd896a738324733bc82d186c12a9225
+2019-08-27 12:28:52,585 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-08-27 12:28:52,585 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-08-27 12:28:55,130 INFO:[s3_mp_upload_file] Upload started for 2~RF2W3mhiVSYMf2q7qHlGfuhjPw-Atkz4bd896a738324733bc82d186c12a9225/README
+2019-08-27 12:28:55,141 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-08-27 12:28:57,821 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.68s; Rate:00.00MB/s]
+2019-08-27 12:28:57,821 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-08-27 12:29:02,595 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=4bd896a738324733bc82d186c12a9225
+2019-08-27 12:29:02,595 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=4bd896a738324733bc82d186c12a9225
+2019-08-27 12:57:02,417 INFO:filesystem encoding: mbcs
+2019-08-27 12:57:02,417 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 3, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-08-27 12:57:02,418 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-08-27 12:57:07,036 INFO:[create_attachment] Attachment created: 4e1e49173ca743e6842f15c769bf4769
+2019-08-27 12:57:07,036 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-08-27 12:57:07,036 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-08-27 12:57:09,635 INFO:[s3_mp_upload_file] Upload started for 2~uJxv43kOhfrdZ89i-MOSOoJWaFk9tRz4e1e49173ca743e6842f15c769bf4769/README
+2019-08-27 12:57:09,648 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-08-27 12:57:12,865 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.22s; Rate:00.00MB/s]
+2019-08-27 12:57:12,865 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-08-27 12:57:17,217 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=4e1e49173ca743e6842f15c769bf4769
+2019-08-27 12:57:17,219 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=4e1e49173ca743e6842f15c769bf4769
+2019-08-29 16:25:55,934 INFO:filesystem encoding: mbcs
+2019-08-29 16:25:55,934 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 3, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-08-29 16:25:55,934 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-08-29 16:25:59,911 INFO:[create_attachment] Attachment created: 695387f98a544e699b281724955f619b
+2019-08-29 16:25:59,914 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-08-29 16:25:59,914 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-08-29 16:26:03,507 INFO:[s3_mp_upload_file] Upload started for 2~_7SWbTcKsKYUZ6YHdk2JOGyvkKgU3ez695387f98a544e699b281724955f619b/README
+2019-08-29 16:26:03,512 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-08-29 16:26:07,407 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.90s; Rate:00.00MB/s]
+2019-08-29 16:26:07,407 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-08-29 16:26:13,002 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=695387f98a544e699b281724955f619b
+2019-08-29 16:26:13,002 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=695387f98a544e699b281724955f619b
+2019-08-29 16:27:51,196 INFO:filesystem encoding: mbcs
+2019-08-29 16:27:51,200 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 3, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-08-29 16:27:51,200 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-08-29 16:27:55,053 INFO:[create_attachment] Attachment created: 0b62463dbf544286a3252266e3e59a5c
+2019-08-29 16:27:55,058 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-08-29 16:27:55,058 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-08-29 16:27:58,687 INFO:[s3_mp_upload_file] Upload started for 2~mBCA5-I1wC0kV3eIJuVsuHEJzn36mLM0b62463dbf544286a3252266e3e59a5c/README
+2019-08-29 16:27:58,694 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-08-29 16:28:02,101 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.41s; Rate:00.00MB/s]
+2019-08-29 16:28:02,101 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-08-29 16:28:09,463 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=0b62463dbf544286a3252266e3e59a5c
+2019-08-29 16:28:09,463 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=0b62463dbf544286a3252266e3e59a5c
+2019-08-30 11:06:49,427 INFO:filesystem encoding: mbcs
+2019-08-30 11:06:49,428 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 3, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-08-30 11:06:49,430 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-08-30 11:06:52,246 INFO:[create_attachment] Attachment created: d758c994b5b14d0597eb4b2dba0e61e9
+2019-08-30 11:06:52,247 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-08-30 11:06:52,247 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-08-30 11:06:54,818 INFO:[s3_mp_upload_file] Upload started for 2~0MfX5KiHbemKZt-Ol8BTXN2uOkbqrp4d758c994b5b14d0597eb4b2dba0e61e9/README
+2019-08-30 11:06:54,821 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-08-30 11:06:57,436 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.62s; Rate:00.00MB/s]
+2019-08-30 11:06:57,437 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-08-30 11:07:01,956 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=d758c994b5b14d0597eb4b2dba0e61e9
+2019-08-30 11:07:01,957 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=d758c994b5b14d0597eb4b2dba0e61e9
+2019-08-30 11:07:03,273 INFO:filesystem encoding: mbcs
+2019-08-30 11:07:03,273 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 3, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-08-30 11:07:03,275 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-08-30 11:07:06,015 INFO:[create_attachment] Attachment created: 3c31799f316942ff98f88e26c9d5ebd7
+2019-08-30 11:07:06,015 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-08-30 11:07:06,015 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-08-30 11:07:11,536 INFO:[s3_mp_upload_file] Upload started for 2~QFEZ_hXdj78IlXBb5JNN6s8t1uS-rwA3c31799f316942ff98f88e26c9d5ebd7/README
+2019-08-30 11:07:11,543 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-08-30 11:07:22,609 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:11.06s; Rate:00.00MB/s]
+2019-08-30 11:07:22,611 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-08-30 11:07:27,078 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=3c31799f316942ff98f88e26c9d5ebd7
+2019-08-30 11:07:27,078 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=3c31799f316942ff98f88e26c9d5ebd7
+2019-08-30 11:15:27,671 INFO:filesystem encoding: mbcs
+2019-08-30 11:15:27,671 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-08-30 11:15:27,673 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-08-30 11:15:30,497 INFO:[create_attachment] Attachment created: 0277dc9cc3c94a8c87c56cdf688c07a2
+2019-08-30 11:15:30,499 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-08-30 11:15:30,499 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-08-30 11:15:33,084 INFO:[s3_mp_upload_file] Upload started for 2~Jgo0sKQfGE6HDmaKbu57BZMGFdm3iEc0277dc9cc3c94a8c87c56cdf688c07a2/README
+2019-08-30 11:15:33,088 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-08-30 11:15:35,796 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.71s; Rate:00.00MB/s]
+2019-08-30 11:15:35,796 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-08-30 11:15:40,134 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=0277dc9cc3c94a8c87c56cdf688c07a2
+2019-08-30 11:15:40,134 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=0277dc9cc3c94a8c87c56cdf688c07a2
+2019-08-30 11:15:41,553 INFO:filesystem encoding: mbcs
+2019-08-30 11:15:41,553 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 3, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-08-30 11:15:41,553 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-08-30 11:15:44,453 INFO:[create_attachment] Attachment created: ee68b918e7e245d687b17cb6127cb52f
+2019-08-30 11:15:44,453 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-08-30 11:15:44,453 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-08-30 11:15:46,737 INFO:[s3_mp_upload_file] Upload started for 2~G45PswlIY3eobZUGnCn-zh6QvkWy-bTee68b918e7e245d687b17cb6127cb52f/README
+2019-08-30 11:15:46,742 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-08-30 11:15:49,266 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.52s; Rate:00.00MB/s]
+2019-08-30 11:15:49,267 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-08-30 11:15:53,539 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=ee68b918e7e245d687b17cb6127cb52f
+2019-08-30 11:15:53,539 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=ee68b918e7e245d687b17cb6127cb52f
+2019-08-30 14:17:03,553 INFO:filesystem encoding: mbcs
+2019-08-30 14:17:03,553 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-08-30 14:17:03,553 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-08-30 14:17:07,289 INFO:[create_attachment] Attachment created: 3f83f9e2690d4536b0c5be36c42dd54b
+2019-08-30 14:17:07,289 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-08-30 14:17:07,289 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-08-30 14:17:11,507 INFO:[s3_mp_upload_file] Upload started for 2~9i5aMvxF2t1GiWvWt10YECNLhG0VfFC3f83f9e2690d4536b0c5be36c42dd54b/README
+2019-08-30 14:17:11,507 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-08-30 14:17:15,289 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.78s; Rate:00.00MB/s]
+2019-08-30 14:17:15,289 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-08-30 14:17:21,493 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=3f83f9e2690d4536b0c5be36c42dd54b
+2019-08-30 14:17:21,493 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=3f83f9e2690d4536b0c5be36c42dd54b
+2019-08-30 15:21:55,819 INFO:filesystem encoding: mbcs
+2019-08-30 15:21:55,819 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-08-30 15:21:55,819 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-08-30 15:22:00,007 INFO:[create_attachment] Attachment created: e924df4cca034bb6ad412fa13c7bb097
+2019-08-30 15:22:00,007 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-08-30 15:22:00,007 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-08-30 15:22:02,424 INFO:[s3_mp_upload_file] Upload started for 2~VKkUlfTDYLCcT07BDpLFCPRHiVU0AP9e924df4cca034bb6ad412fa13c7bb097/README
+2019-08-30 15:22:02,424 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-08-30 15:22:04,996 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.57s; Rate:00.00MB/s]
+2019-08-30 15:22:04,996 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-08-30 15:22:09,358 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=e924df4cca034bb6ad412fa13c7bb097
+2019-08-30 15:22:09,358 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=e924df4cca034bb6ad412fa13c7bb097
+2019-08-30 15:24:28,128 INFO:filesystem encoding: mbcs
+2019-08-30 15:24:28,128 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-08-30 15:24:28,128 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-08-30 15:24:30,842 INFO:[create_attachment] Attachment created: 7509cd0ac93344e69bfebf3f40e06b60
+2019-08-30 15:24:30,842 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-08-30 15:24:30,842 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-08-30 15:24:33,352 INFO:[s3_mp_upload_file] Upload started for 2~KQfvN7jwSu-Klp6lacvTDKSxfgMt2oM7509cd0ac93344e69bfebf3f40e06b60/README
+2019-08-30 15:24:33,352 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-08-30 15:24:35,894 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.54s; Rate:00.00MB/s]
+2019-08-30 15:24:35,894 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-08-30 15:24:40,161 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=7509cd0ac93344e69bfebf3f40e06b60
+2019-08-30 15:24:40,161 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=7509cd0ac93344e69bfebf3f40e06b60
+2019-09-03 11:16:04,727 INFO:filesystem encoding: mbcs
+2019-09-03 11:16:04,730 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-03 11:16:04,730 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}]
+2019-09-03 11:16:07,631 INFO:[create_attachment] Attachment created: 367c210976c941feab392ced98dfb551
+2019-09-03 11:16:07,632 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-03 11:16:07,632 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-03 11:16:10,055 INFO:[s3_mp_upload_file] Upload started for 2~-mS5-BXY4_M0fg44yU765q6Gtmw49sQ367c210976c941feab392ced98dfb551/README
+2019-09-03 11:16:10,059 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-03 11:16:12,532 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.47s; Rate:00.00MB/s]
+2019-09-03 11:16:12,533 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-03 11:16:14,759 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-03 11:16:14,759 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-03 11:16:17,038 INFO:[s3_mp_upload_file] Upload started for 2~VOtZGQudv2kr3rLPrBKdt_oJIExLvcS367c210976c941feab392ced98dfb551/test.txt
+2019-09-03 11:16:17,046 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-03 11:16:19,421 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.38s; Rate:00.00MB/s]
+2019-09-03 11:16:19,421 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-03 11:16:23,150 ERROR:DEBUGGING INFO
+2019-09-03 11:16:23,151 ERROR:http_status_code:403
+2019-09-03 11:16:23,151 ERROR:http_status_text:forbidden
+2019-09-03 11:16:23,151 ERROR:http_text:{"error":{"url":"/xe4dd3ac/Privacy_Restricted_Data_Rules.pdf","code":403,"message":"Invalid keyId, algorithm, or signature."}}
+2019-09-03 11:16:23,151 ERROR:http_json:None
+2019-09-03 11:16:23,151 ERROR:/DEBUGGING INFO
+2019-09-03 11:16:23,151 ERROR:ERROR: Error during upload complete [1]
+2019-09-03 11:19:12,561 INFO:filesystem encoding: mbcs
+2019-09-03 11:19:12,562 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-03 11:19:12,562 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-03 11:19:15,601 INFO:[create_attachment] Attachment created: e0c3b701ce9345d2ac3a8f3c94b78d87
+2019-09-03 11:19:15,602 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-03 11:19:15,602 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-03 11:19:18,016 INFO:[s3_mp_upload_file] Upload started for 2~9mfOS9mw9ASinfuUMe6In6vCF6Cf_kce0c3b701ce9345d2ac3a8f3c94b78d87/README
+2019-09-03 11:19:18,019 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-03 11:19:20,467 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.45s; Rate:00.00MB/s]
+2019-09-03 11:19:20,467 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-03 11:19:24,621 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=e0c3b701ce9345d2ac3a8f3c94b78d87
+2019-09-03 11:19:24,621 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=e0c3b701ce9345d2ac3a8f3c94b78d87
+2019-09-03 11:19:53,444 INFO:filesystem encoding: mbcs
+2019-09-03 11:19:53,446 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-03 11:19:53,447 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}]
+2019-09-03 11:19:56,934 INFO:[create_attachment] Attachment created: 3af8309c32384ee4836557f0345ef535
+2019-09-03 11:19:56,937 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-03 11:19:56,937 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-03 11:20:02,180 INFO:[s3_mp_upload_file] Upload started for 2~ty6UKhhnZDtYhxbDKh_v1LJapR9C_9A3af8309c32384ee4836557f0345ef535/README
+2019-09-03 11:20:02,184 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-03 11:20:04,631 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.45s; Rate:00.00MB/s]
+2019-09-03 11:20:04,631 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-03 11:20:06,872 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-03 11:20:06,872 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-03 11:20:09,134 INFO:[s3_mp_upload_file] Upload started for 2~pvxYHmkWs3Qd7U8w2zzq92jH__hBizS3af8309c32384ee4836557f0345ef535/test.txt
+2019-09-03 11:20:09,135 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-03 11:20:11,411 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.28s; Rate:00.00MB/s]
+2019-09-03 11:20:11,411 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-03 11:20:15,578 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=3af8309c32384ee4836557f0345ef535
+2019-09-03 11:20:15,578 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=3af8309c32384ee4836557f0345ef535
+2019-09-03 11:24:39,022 INFO:filesystem encoding: mbcs
+2019-09-03 11:24:39,023 ERROR:ERROR: File count limit (2) exceeded.
+2019-09-03 11:25:49,680 INFO:filesystem encoding: mbcs
+2019-09-03 11:25:49,680 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-03 11:25:49,680 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}]
+2019-09-03 11:25:52,806 INFO:[create_attachment] Attachment created: 7be1ad257d03469db70f7d74650ecbc6
+2019-09-03 11:25:52,808 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-03 11:25:52,808 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-03 11:25:55,545 INFO:[s3_mp_upload_file] Upload started for 2~U9AmKkm2YKCFpBRGbDHxu9JyKynJJNK7be1ad257d03469db70f7d74650ecbc6/README
+2019-09-03 11:25:55,549 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-03 11:25:58,003 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.45s; Rate:00.00MB/s]
+2019-09-03 11:25:58,003 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-03 11:26:00,443 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-03 11:26:00,443 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-03 11:26:02,670 INFO:[s3_mp_upload_file] Upload started for 2~59XK6iZLc_2_oyOpzPrSm0IV2wHrdQz7be1ad257d03469db70f7d74650ecbc6/test.txt
+2019-09-03 11:26:02,671 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-03 11:26:04,954 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.28s; Rate:00.00MB/s]
+2019-09-03 11:26:04,956 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-03 11:26:09,565 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=7be1ad257d03469db70f7d74650ecbc6
+2019-09-03 11:26:09,566 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=7be1ad257d03469db70f7d74650ecbc6
+2019-09-03 11:27:39,229 INFO:filesystem encoding: mbcs
+2019-09-03 11:27:39,230 ERROR:ERROR: File count limit (2) exceeded.
+2019-09-03 11:34:05,828 INFO:filesystem encoding: mbcs
+2019-09-03 11:34:05,829 ERROR:ERROR: File count limit (2) exceeded.
+2019-09-03 11:36:40,368 INFO:filesystem encoding: mbcs
+2019-09-03 11:36:40,369 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-03 11:36:40,369 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}]
+2019-09-03 11:36:43,417 INFO:[create_attachment] Attachment created: 33899972379c46888e67a07d57e65f2f
+2019-09-03 11:36:43,417 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-03 11:36:43,418 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-03 11:36:45,927 INFO:[s3_mp_upload_file] Upload started for 2~TaBJyeHpe1VT3tFWpgfgM2mSaVVzh9X33899972379c46888e67a07d57e65f2f/README
+2019-09-03 11:36:45,933 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-03 11:36:48,493 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.56s; Rate:00.00MB/s]
+2019-09-03 11:36:48,493 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-03 11:36:50,707 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-03 11:36:50,707 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-03 11:36:53,778 INFO:[s3_mp_upload_file] Upload started for 2~9X_I-4SikD5uU13hib4fwsPQ1fzdlUC33899972379c46888e67a07d57e65f2f/test.txt
+2019-09-03 11:36:53,779 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-03 11:36:56,063 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.28s; Rate:00.00MB/s]
+2019-09-03 11:36:56,065 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-03 11:37:00,256 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=33899972379c46888e67a07d57e65f2f
+2019-09-03 11:37:00,256 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=33899972379c46888e67a07d57e65f2f
+2019-09-04 11:14:56,569 INFO:filesystem encoding: mbcs
+2019-09-04 11:14:56,572 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-04 11:14:56,572 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}]
+2019-09-04 11:14:59,957 INFO:[create_attachment] Attachment created: fb88971321fb40c99f21df0a3c712175
+2019-09-04 11:14:59,957 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-04 11:14:59,957 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-04 11:15:02,730 INFO:[s3_mp_upload_file] Upload started for 2~tvQdaEF0ouiRzAqgfBBtud3OBIUXn7Mfb88971321fb40c99f21df0a3c712175/README
+2019-09-04 11:15:02,734 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-04 11:15:09,470 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:06.73s; Rate:00.00MB/s]
+2019-09-04 11:15:09,473 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-04 11:15:11,789 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-04 11:15:11,790 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-04 11:15:14,053 INFO:[s3_mp_upload_file] Upload started for 2~qUSffcUILnpdEBPCHXHCpmZMp6T4Tgwfb88971321fb40c99f21df0a3c712175/test.txt
+2019-09-04 11:15:14,055 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-04 11:15:16,523 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.47s; Rate:00.00MB/s]
+2019-09-04 11:15:16,525 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-04 11:15:20,954 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=fb88971321fb40c99f21df0a3c712175
+2019-09-04 11:15:20,954 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=fb88971321fb40c99f21df0a3c712175
+2019-09-05 16:20:48,108 INFO:filesystem encoding: mbcs
+2019-09-05 16:20:48,111 ERROR:Error: Unable to find file capscli/test_files/test1.txt
+2019-09-05 16:22:44,881 INFO:filesystem encoding: mbcs
+2019-09-05 16:22:44,882 INFO:[prepare_attachment] Called with {'customer': 353182, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-05 16:22:44,884 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 0L}, {'name': 'test2.txt', 'size': 0L}, {'name': 'test3.txt', 'size': 0L}, {'name': 'test4.txt', 'size': 0L}]
+2019-09-05 16:22:47,596 ERROR:ERROR: CAPSV reported bad request. See log for additional information.
+2019-09-05 16:22:47,598 ERROR:payload: {'files': [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 0L}, {'name': 'test2.txt', 'size': 0L}, {'name': 'test3.txt', 'size': 0L}, {'name': 'test4.txt', 'size': 0L}], 'product': {'id_cdb': '134-080167_00'}, 'description': 'Test Description', 'classification': {'id': 12}, 'service_class': 'CARE', 'app': 'CAPSCLI', 'retention_days': 1, 'purpose': 'Test Purpose', 'ticket': {'app_name': 'REFRA', 'ticket_id': None}, 'customer': {'id_cdb': 353182}, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM'}
+2019-09-05 16:22:47,598 ERROR:DEBUGGING INFO
+2019-09-05 16:22:47,598 ERROR:http_status_code:400
+2019-09-05 16:22:47,598 ERROR:http_status_text:bad_request
+2019-09-05 16:22:47,598 ERROR:http_text:{"error":{"message":"{'customer': [ErrorDetail(string=u'id_cdb is not valid - value 353182 - exception Customer matching query does not exist.', code=u'invalid')]}","code":400,"url":"/xe4dd3ac/Privacy_Restricted_Data_Rules.pdf"}}
+2019-09-05 16:22:47,598 ERROR:http_json:{u'error': {u'url': u'/xe4dd3ac/Privacy_Restricted_Data_Rules.pdf', u'message': u"{'customer': [ErrorDetail(string=u'id_cdb is not valid - value 353182 - exception Customer matching query does not exist.', code=u'invalid')]}", u'code': 400}}
+2019-09-05 16:22:47,598 ERROR:/DEBUGGING INFO
+2019-09-05 16:22:47,598 ERROR:ERROR: Error during create attachment [21]
+2019-09-05 16:22:47,598 ERROR:CAPS Response: {'customer': [ErrorDetail(string=u'id_cdb is not valid - value 353182 - exception Customer matching query does not exist.', code=u'invalid')]}
+2019-09-05 16:31:03,747 INFO:filesystem encoding: mbcs
+2019-09-05 16:31:03,750 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-05 16:31:03,752 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 0L}, {'name': 'test2.txt', 'size': 0L}, {'name': 'test3.txt', 'size': 0L}, {'name': 'test4.txt', 'size': 0L}]
+2019-09-05 16:31:06,900 INFO:[create_attachment] Attachment created: 2814f5af6fca45fbb983227618f75f35
+2019-09-05 16:31:06,901 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-05 16:31:06,901 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-05 16:31:10,046 INFO:[s3_mp_upload_file] Upload started for 2~trZ782TFyDbki7pvSJ5j0Z624QiWSCb2814f5af6fca45fbb983227618f75f35/README
+2019-09-05 16:31:18,915 INFO:filesystem encoding: mbcs
+2019-09-05 16:31:18,918 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-05 16:31:18,921 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 0L}, {'name': 'test2.txt', 'size': 0L}, {'name': 'test3.txt', 'size': 0L}, {'name': 'test4.txt', 'size': 0L}]
+2019-09-05 16:31:22,055 INFO:[create_attachment] Attachment created: f030cb181612496bbd284d9c3c0d8ca7
+2019-09-05 16:31:22,056 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-05 16:31:22,056 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-05 16:31:25,061 INFO:[s3_mp_upload_file] Upload started for 2~OFl-ZU-33j9tqhjqhxuPXFq_LNOCvnnf030cb181612496bbd284d9c3c0d8ca7/README
+2019-09-05 16:31:25,068 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-05 16:31:29,033 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.97s; Rate:00.00MB/s]
+2019-09-05 16:31:29,035 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:31:31,855 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-05 16:31:31,855 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-05 16:31:34,651 INFO:[s3_mp_upload_file] Upload started for 2~nhbV9Hj4gDEQofqNJYH5O8cYbpr4RT6f030cb181612496bbd284d9c3c0d8ca7/test.txt
+2019-09-05 16:31:34,654 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-05 16:31:37,576 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.92s; Rate:00.00MB/s]
+2019-09-05 16:31:37,576 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:31:40,471 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-05 16:31:40,473 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-05 16:31:43,323 INFO:[s3_mp_upload_file] Upload started for 2~57FYF6aF_SxzRg183vGINNOU-QrKtj-f030cb181612496bbd284d9c3c0d8ca7/test1.txt
+2019-09-05 16:31:43,325 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-05 16:31:43,351 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:0 bytes; Duration:00.03s; Rate:00.00MB/s]
+2019-09-05 16:31:43,351 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:31:46,275 ERROR:DEBUGGING INFO
+2019-09-05 16:31:46,275 ERROR:http_status_code:400
+2019-09-05 16:31:46,275 ERROR:http_status_text:bad_request
+2019-09-05 16:31:46,276 ERROR:http_text:<?xml version="1.0" encoding="UTF-8"?><Error><Code>MalformedXML</Code><BucketName>capsvtest1</BucketName><RequestId>tx00000000000004b83312f-005d70eb1a-670d0535-default</RequestId><HostId>670d0535-default-default</HostId></Error>
+2019-09-05 16:31:46,276 ERROR:http_json:None
+2019-09-05 16:31:46,276 ERROR:/DEBUGGING INFO
+2019-09-05 16:31:46,276 ERROR:ERROR: Error during upload [130]
+2019-09-05 16:33:21,256 INFO:filesystem encoding: mbcs
+2019-09-05 16:33:21,257 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-05 16:33:21,259 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-05 16:33:24,351 INFO:[create_attachment] Attachment created: cfb7c1d2f2bc4147bddcf2ba973b1230
+2019-09-05 16:33:24,351 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-05 16:33:24,351 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-05 16:33:27,489 INFO:[s3_mp_upload_file] Upload started for 2~7QWr1FL-n_ppVl4pBhz5dTpQCbg24wrcfb7c1d2f2bc4147bddcf2ba973b1230/README
+2019-09-05 16:33:27,492 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-05 16:33:30,773 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.28s; Rate:00.00MB/s]
+2019-09-05 16:33:30,773 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:33:33,766 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-05 16:33:33,766 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-05 16:33:36,743 INFO:[s3_mp_upload_file] Upload started for 2~Ye74n-oJuapgNlZYjAD9IX_cnPzkozkcfb7c1d2f2bc4147bddcf2ba973b1230/test.txt
+2019-09-05 16:33:36,744 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-05 16:33:40,082 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:03.34s; Rate:00.00MB/s]
+2019-09-05 16:33:40,082 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:33:43,173 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-05 16:33:43,173 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-05 16:33:46,148 INFO:[s3_mp_upload_file] Upload started for 2~diol1qezVgIKANSq2VpZGk7AOH6KSd_cfb7c1d2f2bc4147bddcf2ba973b1230/test1.txt
+2019-09-05 16:33:46,150 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-05 16:33:49,104 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:02.95s; Rate:00.00MB/s]
+2019-09-05 16:33:49,105 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:33:52,101 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-05 16:33:52,101 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-05 16:33:55,111 INFO:[s3_mp_upload_file] Upload started for 2~IdBEa3vUHMcaiHVfCx7-3Ww1BUDYsN5cfb7c1d2f2bc4147bddcf2ba973b1230/test2.txt
+2019-09-05 16:33:55,111 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-05 16:33:58,095 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:02.98s; Rate:00.00MB/s]
+2019-09-05 16:33:58,095 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:34:01,010 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-05 16:34:01,012 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-05 16:34:03,786 INFO:[s3_mp_upload_file] Upload started for 2~OCMci92-H75GU19eYyW1rgj2i95LWKJcfb7c1d2f2bc4147bddcf2ba973b1230/test3.txt
+2019-09-05 16:34:03,790 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-05 16:34:06,641 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:02.85s; Rate:00.00MB/s]
+2019-09-05 16:34:06,642 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:34:09,747 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-05 16:34:09,749 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-05 16:34:12,710 INFO:[s3_mp_upload_file] Upload started for 2~4TXzIrzNyFKqW7otnXQNxa6n3cGjKozcfb7c1d2f2bc4147bddcf2ba973b1230/test4.txt
+2019-09-05 16:34:12,710 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-05 16:34:15,621 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:02.91s; Rate:00.00MB/s]
+2019-09-05 16:34:15,621 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:34:20,756 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=cfb7c1d2f2bc4147bddcf2ba973b1230
+2019-09-05 16:34:20,756 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=cfb7c1d2f2bc4147bddcf2ba973b1230
+2019-09-05 16:36:08,931 INFO:filesystem encoding: mbcs
+2019-09-05 16:36:08,933 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-05 16:36:08,933 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-05 16:36:11,910 INFO:[create_attachment] Attachment created: 08b03ba145704a528dc74afcfc408313
+2019-09-05 16:36:11,910 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-05 16:36:11,910 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-05 16:36:14,595 INFO:[s3_mp_upload_file] Upload started for 2~Je5_mpmoSFtH0Zi0eCXja1as1GayhdG08b03ba145704a528dc74afcfc408313/README
+2019-09-05 16:36:14,599 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-05 16:36:17,703 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.10s; Rate:00.00MB/s]
+2019-09-05 16:36:17,703 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:36:22,138 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=08b03ba145704a528dc74afcfc408313
+2019-09-05 16:36:22,138 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=08b03ba145704a528dc74afcfc408313
+2019-09-05 16:37:37,861 INFO:filesystem encoding: mbcs
+2019-09-05 16:37:37,862 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-05 16:37:37,865 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-05 16:37:40,884 INFO:[create_attachment] Attachment created: 2c86296e6176404fa5b777de1798e664
+2019-09-05 16:37:40,884 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-05 16:37:40,884 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-05 16:37:44,244 INFO:[s3_mp_upload_file] Upload started for 2~GL5LF20SyK7LJoTSsUEKrHjlvXUhX6a2c86296e6176404fa5b777de1798e664/README
+2019-09-05 16:37:44,249 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-05 16:37:47,461 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.21s; Rate:00.00MB/s]
+2019-09-05 16:37:47,461 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:37:50,259 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-05 16:37:50,259 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-05 16:37:53,177 INFO:[s3_mp_upload_file] Upload started for 2~LJHTX35KWZsEWjB4N4NEtA6eipkMgsG2c86296e6176404fa5b777de1798e664/test.txt
+2019-09-05 16:37:53,177 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-05 16:37:56,190 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:03.01s; Rate:00.00MB/s]
+2019-09-05 16:37:56,191 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:37:59,164 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-05 16:37:59,164 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-05 16:38:02,158 INFO:[s3_mp_upload_file] Upload started for 2~jlQHaB8sTxVOar5DqJ3mzAz6BY0ibF22c86296e6176404fa5b777de1798e664/test1.txt
+2019-09-05 16:38:02,160 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-05 16:38:05,236 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:03.08s; Rate:00.00MB/s]
+2019-09-05 16:38:05,239 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:38:08,332 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-05 16:38:08,332 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-05 16:38:11,309 INFO:[s3_mp_upload_file] Upload started for 2~o0VUnhPGM7xUnRzF6-8dzUorCaS4Rco2c86296e6176404fa5b777de1798e664/test2.txt
+2019-09-05 16:38:11,309 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-05 16:38:14,236 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:02.92s; Rate:00.00MB/s]
+2019-09-05 16:38:14,236 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:38:17,119 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-05 16:38:17,119 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-05 16:38:19,933 INFO:[s3_mp_upload_file] Upload started for 2~lr7qy3rwlBRVwU8Dq2krdbvIa89Ndyt2c86296e6176404fa5b777de1798e664/test3.txt
+2019-09-05 16:38:19,938 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-05 16:38:22,871 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:02.93s; Rate:00.00MB/s]
+2019-09-05 16:38:22,871 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:38:25,990 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-05 16:38:25,990 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-05 16:38:28,842 INFO:[s3_mp_upload_file] Upload started for 2~Ont6W1fRCHjZdd5MQdfo0PYPAvoK_W12c86296e6176404fa5b777de1798e664/test4.txt
+2019-09-05 16:38:28,842 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-05 16:38:40,903 INFO:filesystem encoding: mbcs
+2019-09-05 16:38:40,904 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-05 16:38:40,905 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-05 16:38:43,953 INFO:[create_attachment] Attachment created: 5aecfcf28a294135a4305290592c747e
+2019-09-05 16:38:43,953 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-05 16:38:43,953 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-05 16:38:46,910 INFO:[s3_mp_upload_file] Upload started for 2~rviWneX4xpHP18JhTFq16nClIVi4OMQ5aecfcf28a294135a4305290592c747e/README
+2019-09-05 16:38:46,914 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-05 16:38:50,151 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.24s; Rate:00.00MB/s]
+2019-09-05 16:38:50,151 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:38:53,177 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-05 16:38:53,177 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-05 16:38:56,178 INFO:[s3_mp_upload_file] Upload started for 2~U0nTpZOMY1cPDYAhByMqLEUUR77uz_A5aecfcf28a294135a4305290592c747e/test.txt
+2019-09-05 16:38:56,180 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-05 16:38:59,122 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.94s; Rate:00.00MB/s]
+2019-09-05 16:38:59,124 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:39:02,046 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-05 16:39:02,046 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-05 16:39:04,997 INFO:[s3_mp_upload_file] Upload started for 2~F7s-v6IFQrxF-g3G3jZy7K36Ts1KKkG5aecfcf28a294135a4305290592c747e/test1.txt
+2019-09-05 16:39:05,000 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-05 16:39:08,038 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:03.04s; Rate:00.00MB/s]
+2019-09-05 16:39:08,038 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:39:11,069 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-05 16:39:11,069 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-05 16:39:13,947 INFO:[s3_mp_upload_file] Upload started for 2~yKO7o_YoTTbdLe-lEkWH93ksQID2vnw5aecfcf28a294135a4305290592c747e/test2.txt
+2019-09-05 16:39:13,948 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-05 16:39:17,032 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:03.08s; Rate:00.00MB/s]
+2019-09-05 16:39:17,032 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:39:19,960 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-05 16:39:19,960 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-05 16:39:22,901 INFO:[s3_mp_upload_file] Upload started for 2~jRTlxw1tm7z-3nKNoVR7EvxAgPvT84Z5aecfcf28a294135a4305290592c747e/test3.txt
+2019-09-05 16:39:22,907 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-05 16:39:25,799 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:02.89s; Rate:00.00MB/s]
+2019-09-05 16:39:25,799 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:39:28,683 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-05 16:39:28,683 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-05 16:39:31,529 INFO:[s3_mp_upload_file] Upload started for 2~ckUfYUmt2C6RND4q3OFryI_K4QCQ-pk5aecfcf28a294135a4305290592c747e/test4.txt
+2019-09-05 16:39:31,530 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-05 16:39:34,476 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:02.95s; Rate:00.00MB/s]
+2019-09-05 16:39:34,476 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:39:39,413 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=5aecfcf28a294135a4305290592c747e
+2019-09-05 16:39:39,414 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=5aecfcf28a294135a4305290592c747e
+2019-09-05 16:50:46,746 INFO:filesystem encoding: mbcs
+2019-09-05 16:50:46,746 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-05 16:50:46,749 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-05 16:50:50,071 INFO:[create_attachment] Attachment created: 8411cbb10f924fb4a1aaca5d29ecd00f
+2019-09-05 16:50:50,071 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-05 16:50:50,072 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-05 16:50:53,523 INFO:[s3_mp_upload_file] Upload started for 2~LzMGR35rNKO0W9LvQ_tAO_W-R8grUiS8411cbb10f924fb4a1aaca5d29ecd00f/README
+2019-09-05 16:50:53,526 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-05 16:50:57,022 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.49s; Rate:00.00MB/s]
+2019-09-05 16:50:57,022 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:51:00,039 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-05 16:51:00,039 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-05 16:51:03,289 INFO:[s3_mp_upload_file] Upload started for 2~mxTdRxxyrbCLBg3RgPUb1GH3_ALo_FI8411cbb10f924fb4a1aaca5d29ecd00f/test.txt
+2019-09-05 16:51:03,290 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-05 16:51:06,322 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:03.03s; Rate:00.00MB/s]
+2019-09-05 16:51:06,322 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:51:09,377 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-05 16:51:09,378 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-05 16:51:12,940 INFO:[s3_mp_upload_file] Upload started for 2~DDTEyLZ9SYaVJV8n1k0PpOimENxiW9f8411cbb10f924fb4a1aaca5d29ecd00f/test1.txt
+2019-09-05 16:51:12,940 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-05 16:51:17,976 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:05.04s; Rate:00.00MB/s]
+2019-09-05 16:51:17,977 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:51:21,926 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-05 16:51:21,927 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-05 16:51:24,910 INFO:[s3_mp_upload_file] Upload started for 2~LesES9aEV5_qcUOYoNCUWsnB57p6zbf8411cbb10f924fb4a1aaca5d29ecd00f/test2.txt
+2019-09-05 16:51:37,342 INFO:filesystem encoding: mbcs
+2019-09-05 16:51:37,345 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-05 16:51:37,345 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-05 16:51:39,976 ERROR:ERROR: Token rejected. Please get a new token.
+2019-09-05 16:51:39,977 ERROR:DEBUGGING INFO
+2019-09-05 16:51:39,977 ERROR:http_status_code:403
+2019-09-05 16:51:39,977 ERROR:http_status_text:forbidden
+2019-09-05 16:51:39,977 ERROR:http_text:{"error":{"message":"Invalid keyId, algorithm, or signature.","url":"/xe4dd3ac/Privacy_Restricted_Data_Rules.pdf","code":403}}
+2019-09-05 16:51:39,979 ERROR:http_json:{u'error': {u'url': u'/xe4dd3ac/Privacy_Restricted_Data_Rules.pdf', u'message': u'Invalid keyId, algorithm, or signature.', u'code': 403}}
+2019-09-05 16:51:39,979 ERROR:/DEBUGGING INFO
+2019-09-05 16:51:39,979 ERROR:ERROR: Error during create attachment [7]
+2019-09-05 16:51:39,979 ERROR:CAPS Response: Invalid keyId, algorithm, or signature.
+2019-09-05 16:51:41,460 INFO:filesystem encoding: mbcs
+2019-09-05 16:51:41,460 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'kalavani.t@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-05 16:51:41,460 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-05 16:51:44,151 ERROR:ERROR: Token rejected. Please get a new token.
+2019-09-05 16:51:44,151 ERROR:DEBUGGING INFO
+2019-09-05 16:51:44,151 ERROR:http_status_code:403
+2019-09-05 16:51:44,151 ERROR:http_status_text:forbidden
+2019-09-05 16:51:44,151 ERROR:http_text:{"error":{"message":"Invalid keyId, algorithm, or signature.","url":"/xe4dd3ac/Privacy_Restricted_Data_Rules.pdf","code":403}}
+2019-09-05 16:51:44,151 ERROR:http_json:{u'error': {u'url': u'/xe4dd3ac/Privacy_Restricted_Data_Rules.pdf', u'message': u'Invalid keyId, algorithm, or signature.', u'code': 403}}
+2019-09-05 16:51:44,153 ERROR:/DEBUGGING INFO
+2019-09-05 16:51:44,153 ERROR:ERROR: Error during create attachment [7]
+2019-09-05 16:51:44,153 ERROR:CAPS Response: Invalid keyId, algorithm, or signature.
+2019-09-05 16:52:02,674 INFO:filesystem encoding: mbcs
+2019-09-05 16:52:02,676 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-05 16:52:02,677 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-05 16:52:05,825 INFO:[create_attachment] Attachment created: ae3a430381c542bb82aae21bd25265cb
+2019-09-05 16:52:05,825 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-05 16:52:05,825 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-05 16:52:08,845 INFO:[s3_mp_upload_file] Upload started for 2~RtnZkzTu125IScfGdN032g3HFhtmPSPae3a430381c542bb82aae21bd25265cb/README
+2019-09-05 16:52:08,851 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-05 16:52:12,588 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.74s; Rate:00.00MB/s]
+2019-09-05 16:52:12,589 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:52:15,588 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-05 16:52:15,588 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-05 16:52:18,546 INFO:[s3_mp_upload_file] Upload started for 2~bIEWXDjT_ZVxYCn88D0c2Ak1LvxkcFBae3a430381c542bb82aae21bd25265cb/test.txt
+2019-09-05 16:52:18,546 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-05 16:52:21,678 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:03.13s; Rate:00.00MB/s]
+2019-09-05 16:52:21,680 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:52:24,926 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-05 16:52:24,926 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-05 16:52:27,795 INFO:[s3_mp_upload_file] Upload started for 2~JvVc705nYlLMN6BClJTBHOLDOfhRRDuae3a430381c542bb82aae21bd25265cb/test1.txt
+2019-09-05 16:52:27,796 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-05 16:52:30,918 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:03.12s; Rate:00.00MB/s]
+2019-09-05 16:52:30,920 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:52:34,078 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-05 16:52:34,078 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-05 16:52:37,144 INFO:[s3_mp_upload_file] Upload started for 2~n6csD01PJ8_5GpnogX8F5CBVd-5C1G2ae3a430381c542bb82aae21bd25265cb/test2.txt
+2019-09-05 16:52:37,145 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-05 16:52:40,341 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:03.20s; Rate:00.00MB/s]
+2019-09-05 16:52:40,341 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:52:43,552 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-05 16:52:43,553 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-05 16:52:46,591 INFO:[s3_mp_upload_file] Upload started for 2~Zl7j5EiHtXNA7sp9RzBsXqpeJeZrb9uae3a430381c542bb82aae21bd25265cb/test3.txt
+2019-09-05 16:52:46,595 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-05 16:53:04,036 INFO:filesystem encoding: mbcs
+2019-09-05 16:53:04,036 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-05 16:53:04,039 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-05 16:53:07,318 INFO:[create_attachment] Attachment created: 159fef092a554bcd80a4f9ee2a62fc92
+2019-09-05 16:53:07,318 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-05 16:53:07,319 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-05 16:53:13,298 INFO:[s3_mp_upload_file] Upload started for 2~7Br07eeNiKL6Oi2jOyvz4cUO2tnlV6s159fef092a554bcd80a4f9ee2a62fc92/README
+2019-09-05 16:53:13,301 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-05 16:54:14,711 INFO:filesystem encoding: mbcs
+2019-09-05 16:54:14,713 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'kalavani.t@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-05 16:54:14,713 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-05 16:54:17,757 INFO:[create_attachment] Attachment created: 4d38e17fd7954438bc996f223359d5df
+2019-09-05 16:54:17,757 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-05 16:54:17,757 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-05 16:54:20,349 INFO:[s3_mp_upload_file] Upload started for 2~HUC-ZxgLTBevrpfVYhiRF1sQ-Y6yu6W4d38e17fd7954438bc996f223359d5df/README
+2019-09-05 16:54:20,352 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-05 16:54:23,091 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.74s; Rate:00.00MB/s]
+2019-09-05 16:54:23,091 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-05 16:54:27,907 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=4d38e17fd7954438bc996f223359d5df
+2019-09-05 16:54:27,907 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=4d38e17fd7954438bc996f223359d5df
+2019-09-06 10:16:36,305 INFO:filesystem encoding: mbcs
+2019-09-06 10:16:36,305 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/special+char-.txt'], 'description': 'Test Description'}
+2019-09-06 10:16:36,305 INFO:[prepare_attachment] Attachment_files, [{'name': 'special+char-.txt', 'size': 17L}]
+2019-09-06 10:16:39,072 INFO:[create_attachment] Attachment created: 640f6fb236dd4979b00aee893a577101
+2019-09-06 10:16:39,072 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/special+char-.txt
+2019-09-06 10:16:39,072 INFO:[s3_mp_upload_init] Initializing multipart upload for special+char-.txt
+2019-09-06 10:16:46,694 INFO:[s3_mp_upload_file] Upload started for 2~2aOnRRgH52JrBgI0fUOjB0gsOyfhR1N640f6fb236dd4979b00aee893a577101/special+char-.txt
+2019-09-06 10:16:46,694 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/special+char-.txt
+2019-09-06 10:16:49,117 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/special+char-.txt. [Size:17 bytes; Duration:02.42s; Rate:00.00MB/s]
+2019-09-06 10:16:49,117 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-06 10:16:53,466 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=640f6fb236dd4979b00aee893a577101
+2019-09-06 10:16:53,467 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=640f6fb236dd4979b00aee893a577101
+2019-09-06 10:42:08,451 INFO:filesystem encoding: mbcs
+2019-09-06 10:42:08,454 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-06 10:42:08,457 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-06 10:42:11,516 INFO:[create_attachment] Attachment created: d6be6e387cb14a939dcc9f7cba88e9b2
+2019-09-06 10:42:11,516 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-06 10:42:11,517 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-06 10:42:15,858 INFO:[s3_mp_upload_file] Upload started for 2~PNg3aMac-kuTQCZLb7pJ9gn05RlTNDDd6be6e387cb14a939dcc9f7cba88e9b2/README
+2019-09-06 10:42:15,858 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-06 10:42:19,058 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.20s; Rate:00.00MB/s]
+2019-09-06 10:42:19,058 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-06 10:42:21,934 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-06 10:42:21,934 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-06 10:42:24,828 INFO:[s3_mp_upload_file] Upload started for 2~Qo9RZ1xVDUcKoVtQhfoYuaiTrgH-0Yud6be6e387cb14a939dcc9f7cba88e9b2/test.txt
+2019-09-06 10:42:24,831 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-06 10:42:27,819 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.99s; Rate:00.00MB/s]
+2019-09-06 10:42:27,819 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-06 10:42:30,809 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-06 10:42:30,809 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-06 10:42:33,683 INFO:[s3_mp_upload_file] Upload started for 2~RHvtJpmduhTeRkc6lolK0sD5_SmgqPTd6be6e387cb14a939dcc9f7cba88e9b2/test1.txt
+2019-09-06 10:42:33,683 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-06 10:42:36,559 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:02.88s; Rate:00.00MB/s]
+2019-09-06 10:42:36,559 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-06 10:42:40,598 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-06 10:42:40,598 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-06 10:42:43,446 INFO:[s3_mp_upload_file] Upload started for 2~xQkDLlBoyS_6AD4my1oU0sYuZZOruqRd6be6e387cb14a939dcc9f7cba88e9b2/test2.txt
+2019-09-06 10:42:43,447 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-06 10:42:51,388 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:07.94s; Rate:00.00MB/s]
+2019-09-06 10:42:51,390 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-06 10:42:54,505 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-06 10:42:54,506 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-06 10:42:57,311 INFO:[s3_mp_upload_file] Upload started for 2~LOoaYdOylw-52gTb-j_U0Xf_WzBIRXSd6be6e387cb14a939dcc9f7cba88e9b2/test3.txt
+2019-09-06 10:42:57,315 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-06 10:43:00,201 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:02.89s; Rate:00.00MB/s]
+2019-09-06 10:43:00,203 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-06 10:43:02,937 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-06 10:43:02,937 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-06 10:43:05,747 INFO:[s3_mp_upload_file] Upload started for 2~TdSRUDVcUJYZ2Wy9_KhHmCFNzPMVXbjd6be6e387cb14a939dcc9f7cba88e9b2/test4.txt
+2019-09-06 10:43:05,749 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-06 10:43:08,729 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:02.98s; Rate:00.00MB/s]
+2019-09-06 10:43:08,730 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-06 10:43:14,059 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=d6be6e387cb14a939dcc9f7cba88e9b2
+2019-09-06 10:43:14,059 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=d6be6e387cb14a939dcc9f7cba88e9b2
+2019-09-06 12:47:27,046 INFO:filesystem encoding: mbcs
+2019-09-06 12:47:27,048 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/large_file.txt'], 'description': 'Test Description'}
+2019-09-06 12:47:27,048 INFO:[prepare_attachment] Attachment_files, [{'name': 'large_file.txt', 'size': 836508650L}]
+2019-09-06 12:47:30,013 INFO:[create_attachment] Attachment created: 9a67030fa2ac4722bf3a5aad5d49aec0
+2019-09-06 12:47:30,013 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/large_file.txt
+2019-09-06 12:47:30,015 INFO:[s3_mp_upload_init] Initializing multipart upload for large_file.txt
+2019-09-06 12:47:32,434 INFO:[s3_mp_upload_file] Upload started for 2~eRpOl4NELzcqqYDCjwuN8hRRzqKVSnD9a67030fa2ac4722bf3a5aad5d49aec0/large_file.txt
+2019-09-06 12:47:32,438 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/large_file.txt
+2019-09-06 12:56:47,969 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/large_file.txt. [Size:836508650 bytes; Duration:555.53s; Rate:01.43MB/s]
+2019-09-06 12:56:47,970 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-06 12:56:52,115 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=9a67030fa2ac4722bf3a5aad5d49aec0
+2019-09-06 12:56:52,115 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=9a67030fa2ac4722bf3a5aad5d49aec0
+2019-09-06 15:45:36,796 INFO:filesystem encoding: mbcs
+2019-09-06 15:45:36,796 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '833-022515_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 14, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': None, 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': None, 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-06 15:45:36,796 INFO:[prepare_attachment] Attachment_files, [{'name': 'test.txt', 'size': 11L}]
+2019-09-06 15:45:40,092 INFO:[create_attachment] Attachment created: 357b2784b8ba4d4cb80cdef291107b8f
+2019-09-06 15:45:40,092 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-06 15:45:40,092 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-06 15:45:42,608 INFO:[s3_mp_upload_file] Upload started for 2~jW0nezDCyJmqxzGEqtKH42b9m1UlRjG357b2784b8ba4d4cb80cdef291107b8f/test.txt
+2019-09-06 15:45:42,608 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-06 15:45:45,250 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.64s; Rate:00.00MB/s]
+2019-09-06 15:45:45,250 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-06 15:45:50,000 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=357b2784b8ba4d4cb80cdef291107b8f
+2019-09-06 15:45:50,000 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=357b2784b8ba4d4cb80cdef291107b8f
+2019-09-09 10:08:42,114 INFO:filesystem encoding: mbcs
+2019-09-09 10:08:42,130 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-09 10:08:42,130 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-09 10:08:44,957 INFO:[create_attachment] Attachment created: d406cca333e447bc80e59f02ec9b4bc5
+2019-09-09 10:08:44,957 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:08:44,957 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:08:47,755 INFO:[s3_mp_upload_file] Upload started for 2~eUS_2JjaowR2C5dk5_XEyNwul3RO9AKd406cca333e447bc80e59f02ec9b4bc5/README
+2019-09-09 10:08:47,755 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:08:50,740 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.98s; Rate:00.00MB/s]
+2019-09-09 10:08:50,740 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:08:54,434 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:08:54,434 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:08:57,107 INFO:[s3_mp_upload_file] Upload started for 2~uKaNdT7rQ2EOcJp8lrQn9ptpEhCrfjMd406cca333e447bc80e59f02ec9b4bc5/test.txt
+2019-09-09 10:08:57,107 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:09:04,467 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:07.36s; Rate:00.00MB/s]
+2019-09-09 10:09:04,467 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:09:07,092 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-09 10:09:07,092 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-09 10:09:09,749 INFO:[s3_mp_upload_file] Upload started for 2~PoRiWboWMpGc3m7pqufYM05LiqEE0Xld406cca333e447bc80e59f02ec9b4bc5/test1.txt
+2019-09-09 10:09:09,749 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-09 10:09:12,608 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:02.86s; Rate:00.00MB/s]
+2019-09-09 10:09:12,608 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:09:15,249 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-09 10:09:15,249 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-09 10:09:17,842 INFO:[s3_mp_upload_file] Upload started for 2~vcUkoxZRMyExLyS0bE4fEU0hpZAwHSZd406cca333e447bc80e59f02ec9b4bc5/test2.txt
+2019-09-09 10:09:17,858 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-09 10:09:20,546 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:02.69s; Rate:00.00MB/s]
+2019-09-09 10:09:20,546 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:09:23,453 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-09 10:09:23,453 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-09 10:09:26,094 INFO:[s3_mp_upload_file] Upload started for 2~mhRwzUeLJq3sNQ9PgUnfHvGdW8ZoR5Rd406cca333e447bc80e59f02ec9b4bc5/test3.txt
+2019-09-09 10:09:26,094 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-09 10:09:29,171 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:03.08s; Rate:00.00MB/s]
+2019-09-09 10:09:29,171 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:09:35,687 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-09 10:09:35,687 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-09 10:09:38,298 INFO:[s3_mp_upload_file] Upload started for 2~SkKLR9EAs0lgl54Hxr0ZIc8nrMpo6fxd406cca333e447bc80e59f02ec9b4bc5/test4.txt
+2019-09-09 10:09:38,298 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-09 10:09:40,984 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:02.69s; Rate:00.00MB/s]
+2019-09-09 10:09:40,984 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:09:45,782 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=d406cca333e447bc80e59f02ec9b4bc5
+2019-09-09 10:09:45,782 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=d406cca333e447bc80e59f02ec9b4bc5
+2019-09-09 10:12:47,913 INFO:filesystem encoding: mbcs
+2019-09-09 10:12:47,913 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-09 10:12:47,913 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-09 10:12:50,397 INFO:[create_attachment] Attachment created: 068fbe77167a4500a6ac0ad01d7442ec
+2019-09-09 10:12:50,397 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:12:50,397 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:12:53,163 INFO:[s3_mp_upload_file] Upload started for 2~8MNJVyTqt4buHlBxFDOz48YYTo1QKpS068fbe77167a4500a6ac0ad01d7442ec/README
+2019-09-09 10:12:53,178 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:12:57,069 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.89s; Rate:00.00MB/s]
+2019-09-09 10:12:57,069 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:13:08,632 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:13:08,632 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:13:13,727 INFO:[s3_mp_upload_file] Upload started for 2~-tAZ9O7oyFUhS1XFtdSd_C6xX6dicNN068fbe77167a4500a6ac0ad01d7442ec/test.txt
+2019-09-09 10:13:13,727 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:13:20,477 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:06.75s; Rate:00.00MB/s]
+2019-09-09 10:13:20,477 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:13:23,104 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-09 10:13:23,104 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-09 10:13:25,776 INFO:[s3_mp_upload_file] Upload started for 2~bsr35gxxOzAk_j_6ZyWj1CqJNv4YEMO068fbe77167a4500a6ac0ad01d7442ec/test1.txt
+2019-09-09 10:13:25,776 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-09 10:13:29,040 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:03.26s; Rate:00.00MB/s]
+2019-09-09 10:13:29,040 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:13:31,634 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-09 10:13:31,634 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-09 10:13:34,229 INFO:[s3_mp_upload_file] Upload started for 2~NV5PPeBmghlefQoioMbinOWl0QZb6cU068fbe77167a4500a6ac0ad01d7442ec/test2.txt
+2019-09-09 10:13:34,229 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-09 10:13:36,901 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:02.67s; Rate:00.00MB/s]
+2019-09-09 10:13:36,901 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:13:39,542 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-09 10:13:39,542 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-09 10:13:42,401 INFO:[s3_mp_upload_file] Upload started for 2~LFkQHgWjsyIsUqi4w8J3sdzW-VtB1Sj068fbe77167a4500a6ac0ad01d7442ec/test3.txt
+2019-09-09 10:13:42,401 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-09 10:13:45,871 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:03.47s; Rate:00.00MB/s]
+2019-09-09 10:13:45,871 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:13:48,667 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-09 10:13:48,667 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-09 10:13:51,325 INFO:[s3_mp_upload_file] Upload started for 2~rye53RrgTKGdNlu7i8xV4oFZlp1MP2s068fbe77167a4500a6ac0ad01d7442ec/test4.txt
+2019-09-09 10:13:51,325 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-09 10:13:54,184 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:02.86s; Rate:00.00MB/s]
+2019-09-09 10:13:54,184 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:13:58,950 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=068fbe77167a4500a6ac0ad01d7442ec
+2019-09-09 10:13:58,950 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=068fbe77167a4500a6ac0ad01d7442ec
+2019-09-09 10:15:18,250 INFO:filesystem encoding: mbcs
+2019-09-09 10:15:18,250 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-09 10:15:18,250 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-09 10:15:21,032 INFO:[create_attachment] Attachment created: 846260e3d199483490056c67a8fe7e88
+2019-09-09 10:15:21,032 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:15:21,032 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:15:23,782 INFO:[s3_mp_upload_file] Upload started for 2~GzGHTXN3sl5LI2S0-bi2NLHKwC5OIPP846260e3d199483490056c67a8fe7e88/README
+2019-09-09 10:15:23,782 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:15:26,813 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.03s; Rate:00.00MB/s]
+2019-09-09 10:15:26,813 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:15:29,470 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:15:29,470 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:15:32,142 INFO:[s3_mp_upload_file] Upload started for 2~p6Jh9KeQqXHnQv-jOxtjT7TwuDROAfv846260e3d199483490056c67a8fe7e88/test.txt
+2019-09-09 10:15:32,142 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:15:36,690 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:04.55s; Rate:00.00MB/s]
+2019-09-09 10:15:36,690 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:15:44,973 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-09 10:15:44,973 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-09 10:15:50,019 INFO:[s3_mp_upload_file] Upload started for 2~yC-B83A18TOInfp6Zl2o97piAxbfQG_846260e3d199483490056c67a8fe7e88/test1.txt
+2019-09-09 10:15:50,019 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-09 10:16:01,052 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:11.03s; Rate:00.00MB/s]
+2019-09-09 10:16:01,052 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:16:14,227 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-09 10:16:14,227 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-09 10:16:19,641 INFO:[s3_mp_upload_file] Upload started for 2~5fbC_NcfYkx5XhOQJ8xkHcm1r43iiig846260e3d199483490056c67a8fe7e88/test2.txt
+2019-09-09 10:16:19,641 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-09 10:16:24,891 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:05.25s; Rate:00.00MB/s]
+2019-09-09 10:16:24,891 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:16:52,003 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-09 10:16:52,003 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-09 10:16:54,676 INFO:[s3_mp_upload_file] Upload started for 2~CZxAbnbs8J285vqX3_95Ry3pZ4z7uah846260e3d199483490056c67a8fe7e88/test3.txt
+2019-09-09 10:16:54,676 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-09 10:16:57,348 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:02.67s; Rate:00.00MB/s]
+2019-09-09 10:16:57,348 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:16:59,927 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-09 10:16:59,927 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-09 10:17:02,520 INFO:[s3_mp_upload_file] Upload started for 2~TPoDtUccUW3ANQQJn1wUH9xbGYIhT7V846260e3d199483490056c67a8fe7e88/test4.txt
+2019-09-09 10:17:02,520 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-09 10:17:05,177 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:02.66s; Rate:00.00MB/s]
+2019-09-09 10:17:05,177 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:17:10,022 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=846260e3d199483490056c67a8fe7e88
+2019-09-09 10:17:10,022 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=846260e3d199483490056c67a8fe7e88
+2019-09-09 10:20:00,151 INFO:filesystem encoding: mbcs
+2019-09-09 10:20:00,151 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-09 10:20:00,151 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-09 10:20:02,933 INFO:[create_attachment] Attachment created: 22b8c06b28fb443ba12a7f64649f2ae7
+2019-09-09 10:20:02,933 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:20:02,933 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:20:05,823 INFO:[s3_mp_upload_file] Upload started for 2~virD5zcxZoLSI0SITEQbnoE-jWaVNjH22b8c06b28fb443ba12a7f64649f2ae7/README
+2019-09-09 10:20:05,823 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:20:09,605 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.78s; Rate:00.00MB/s]
+2019-09-09 10:20:09,605 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:20:12,903 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:20:12,903 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:20:15,591 INFO:[s3_mp_upload_file] Upload started for 2~qxZFLlbvagX8jUzCgSq4ugLTDHa7eZx22b8c06b28fb443ba12a7f64649f2ae7/test.txt
+2019-09-09 10:20:15,591 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:20:18,434 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.84s; Rate:00.00MB/s]
+2019-09-09 10:20:18,434 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:20:21,121 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-09 10:20:21,121 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-09 10:20:23,763 INFO:[s3_mp_upload_file] Upload started for 2~8KVEF-8JWWmWmUX5xeficowqDBHZMrZ22b8c06b28fb443ba12a7f64649f2ae7/test1.txt
+2019-09-09 10:20:23,779 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-09 10:20:26,497 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:02.72s; Rate:00.00MB/s]
+2019-09-09 10:20:26,497 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:20:29,467 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-09 10:20:29,467 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-09 10:20:32,076 INFO:[s3_mp_upload_file] Upload started for 2~-xLE4OZOpQ_HJXxyBygYWcf29UFhez522b8c06b28fb443ba12a7f64649f2ae7/test2.txt
+2019-09-09 10:20:32,076 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-09 10:20:34,826 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:02.75s; Rate:00.00MB/s]
+2019-09-09 10:20:34,826 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:20:37,437 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-09 10:20:37,437 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-09 10:20:40,046 INFO:[s3_mp_upload_file] Upload started for 2~0K8EmEqk-0aqIaWC14wvtsMPm-lMP6Y22b8c06b28fb443ba12a7f64649f2ae7/test3.txt
+2019-09-09 10:20:40,046 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-09 10:20:42,842 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:02.80s; Rate:00.00MB/s]
+2019-09-09 10:20:42,842 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:20:45,469 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-09 10:20:45,469 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-09 10:20:48,141 INFO:[s3_mp_upload_file] Upload started for 2~1VhNJaLrXVi8AKJiwXYvzcC4_xYfjPb22b8c06b28fb443ba12a7f64649f2ae7/test4.txt
+2019-09-09 10:20:48,141 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-09 10:20:50,812 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:02.67s; Rate:00.00MB/s]
+2019-09-09 10:20:50,812 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:20:55,423 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=22b8c06b28fb443ba12a7f64649f2ae7
+2019-09-09 10:20:55,423 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=22b8c06b28fb443ba12a7f64649f2ae7
+2019-09-09 10:26:46,210 INFO:filesystem encoding: mbcs
+2019-09-09 10:26:46,210 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-09 10:26:46,210 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-09 10:26:48,907 INFO:[create_attachment] Attachment created: 112c48af6e5d4914acd10fc626a0bde7
+2019-09-09 10:26:48,907 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:26:48,907 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:26:51,315 INFO:[s3_mp_upload_file] Upload started for 2~T3mNUR0qZgs2cv02jjdXsrhPIOgRsZG112c48af6e5d4914acd10fc626a0bde7/README
+2019-09-09 10:26:51,315 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:26:54,124 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.81s; Rate:00.00MB/s]
+2019-09-09 10:26:54,124 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:26:58,880 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=112c48af6e5d4914acd10fc626a0bde7
+2019-09-09 10:26:58,880 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=112c48af6e5d4914acd10fc626a0bde7
+2019-09-09 10:27:00,115 INFO:filesystem encoding: mbcs
+2019-09-09 10:27:00,115 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-09 10:27:00,115 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-09 10:27:03,061 INFO:[create_attachment] Attachment created: 26865a4c513f4eb395ea0a9108971409
+2019-09-09 10:27:03,061 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:27:03,061 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:27:05,789 INFO:[s3_mp_upload_file] Upload started for 2~6JwTmE_ef6cJKu-DaLApIRVS6K2P2WY26865a4c513f4eb395ea0a9108971409/README
+2019-09-09 10:27:05,789 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:27:09,013 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.22s; Rate:00.00MB/s]
+2019-09-09 10:27:09,013 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:27:11,753 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:27:11,755 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:27:15,086 INFO:[s3_mp_upload_file] Upload started for 2~a-FxvIuOw4Tb3rMaV3jWl5WK1-2i1fR26865a4c513f4eb395ea0a9108971409/test.txt
+2019-09-09 10:27:15,086 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:27:17,828 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.74s; Rate:00.00MB/s]
+2019-09-09 10:27:17,828 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:27:20,500 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-09 10:27:20,500 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-09 10:27:23,105 INFO:[s3_mp_upload_file] Upload started for 2~daYXO2EyaMffU88mc-Dn6rLq1cQteC826865a4c513f4eb395ea0a9108971409/test1.txt
+2019-09-09 10:27:23,107 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-09 10:27:25,750 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:02.64s; Rate:00.00MB/s]
+2019-09-09 10:27:25,750 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:27:28,332 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-09 10:27:28,332 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-09 10:27:30,937 INFO:[s3_mp_upload_file] Upload started for 2~KbSm_08ZwA22BEkmq0WXmV6QGMM-Lbg26865a4c513f4eb395ea0a9108971409/test2.txt
+2019-09-09 10:27:30,938 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-09 10:27:39,105 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:08.17s; Rate:00.00MB/s]
+2019-09-09 10:27:39,105 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:27:41,783 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-09 10:27:41,783 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-09 10:27:44,493 INFO:[s3_mp_upload_file] Upload started for 2~DZyC5owycELWYa5_9bg5tuamlpE3WnP26865a4c513f4eb395ea0a9108971409/test3.txt
+2019-09-09 10:27:44,493 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-09 10:27:50,211 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:05.72s; Rate:00.00MB/s]
+2019-09-09 10:27:50,213 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:27:52,799 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-09 10:27:52,799 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-09 10:27:55,384 INFO:[s3_mp_upload_file] Upload started for 2~R54FcuSvhweo82XD7O20gEkaRMZG4ic26865a4c513f4eb395ea0a9108971409/test4.txt
+2019-09-09 10:27:55,384 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-09 10:27:58,216 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:02.83s; Rate:00.00MB/s]
+2019-09-09 10:27:58,216 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:28:02,959 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=26865a4c513f4eb395ea0a9108971409
+2019-09-09 10:28:02,959 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=26865a4c513f4eb395ea0a9108971409
+2019-09-09 10:28:04,766 INFO:filesystem encoding: mbcs
+2019-09-09 10:28:04,766 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-09 10:28:04,766 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}]
+2019-09-09 10:28:07,763 INFO:[create_attachment] Attachment created: 7b5b1405df664c6ba7ff42d3ca467393
+2019-09-09 10:28:07,763 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:28:07,763 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:28:09,943 INFO:[s3_mp_upload_file] Upload started for 2~i5nRgjeInBPwh8P8vx9pK_Z8U3Rtmq47b5b1405df664c6ba7ff42d3ca467393/README
+2019-09-09 10:28:09,947 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:28:12,303 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.36s; Rate:00.00MB/s]
+2019-09-09 10:28:12,303 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:28:14,451 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:28:14,451 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:28:16,592 INFO:[s3_mp_upload_file] Upload started for 2~O8zIq1XyQqjjWg-4Q-7N3Ok1YC4bMfL7b5b1405df664c6ba7ff42d3ca467393/test.txt
+2019-09-09 10:28:16,592 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:28:18,780 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.19s; Rate:00.00MB/s]
+2019-09-09 10:28:18,780 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:28:22,858 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=7b5b1405df664c6ba7ff42d3ca467393
+2019-09-09 10:28:22,858 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=7b5b1405df664c6ba7ff42d3ca467393
+2019-09-09 10:28:24,141 INFO:filesystem encoding: mbcs
+2019-09-09 10:28:24,141 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'kalavani.t@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-09 10:28:24,141 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-09 10:28:26,765 INFO:[create_attachment] Attachment created: 81fa1958b75140d9a34b9517e4769557
+2019-09-09 10:28:26,765 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:28:26,765 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:28:28,875 INFO:[s3_mp_upload_file] Upload started for 2~AJbT3tJkp3G0iCwKfXLZahOL-tQfyRJ81fa1958b75140d9a34b9517e4769557/README
+2019-09-09 10:28:28,891 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:28:32,233 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.34s; Rate:00.00MB/s]
+2019-09-09 10:28:32,234 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:28:36,220 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=81fa1958b75140d9a34b9517e4769557
+2019-09-09 10:28:36,236 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=81fa1958b75140d9a34b9517e4769557
+2019-09-09 10:28:37,660 INFO:filesystem encoding: mbcs
+2019-09-09 10:28:37,660 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/special+char-.txt'], 'description': 'Test Description'}
+2019-09-09 10:28:37,660 INFO:[prepare_attachment] Attachment_files, [{'name': 'special+char-.txt', 'size': 17L}]
+2019-09-09 10:28:40,421 INFO:[create_attachment] Attachment created: 67f58fffc3244e6aafcfbfcd3885f1aa
+2019-09-09 10:28:40,421 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/special+char-.txt
+2019-09-09 10:28:40,421 INFO:[s3_mp_upload_init] Initializing multipart upload for special+char-.txt
+2019-09-09 10:28:42,588 INFO:[s3_mp_upload_file] Upload started for 2~60yP_nFwDE5kY4foxW91cg_Brh-FDpx67f58fffc3244e6aafcfbfcd3885f1aa/special+char-.txt
+2019-09-09 10:28:42,588 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/special+char-.txt
+2019-09-09 10:28:44,931 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/special+char-.txt. [Size:17 bytes; Duration:02.34s; Rate:00.00MB/s]
+2019-09-09 10:28:44,931 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:28:48,931 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=67f58fffc3244e6aafcfbfcd3885f1aa
+2019-09-09 10:28:48,931 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=67f58fffc3244e6aafcfbfcd3885f1aa
+2019-09-09 10:28:50,244 INFO:filesystem encoding: mbcs
+2019-09-09 10:28:50,244 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '833-022515_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 14, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': None, 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': None, 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-09 10:28:50,244 INFO:[prepare_attachment] Attachment_files, [{'name': 'test.txt', 'size': 11L}]
+2019-09-09 10:28:52,917 INFO:[create_attachment] Attachment created: 4a073bf9fb3f4cce83679bb572ff468c
+2019-09-09 10:28:52,917 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:28:52,917 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:28:55,072 INFO:[s3_mp_upload_file] Upload started for 2~KzDYDRnCkBO3B87yFBObCXL3BHPZ8Hy4a073bf9fb3f4cce83679bb572ff468c/test.txt
+2019-09-09 10:28:55,072 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:28:57,292 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.22s; Rate:00.00MB/s]
+2019-09-09 10:28:57,292 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:29:01,230 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=4a073bf9fb3f4cce83679bb572ff468c
+2019-09-09 10:29:01,230 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=4a073bf9fb3f4cce83679bb572ff468c
+2019-09-09 10:31:40,171 INFO:filesystem encoding: mbcs
+2019-09-09 10:31:40,171 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-09 10:31:40,173 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-09 10:31:43,171 INFO:[create_attachment] Attachment created: a35d57b38c3547b09f1bde5418d66e63
+2019-09-09 10:31:43,173 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:31:43,173 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:31:45,312 INFO:[s3_mp_upload_file] Upload started for 2~TfF_sN04WtyFWvKgMKaUJ9x3yyNhduta35d57b38c3547b09f1bde5418d66e63/README
+2019-09-09 10:31:45,316 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:31:47,683 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.37s; Rate:00.00MB/s]
+2019-09-09 10:31:47,683 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:31:51,782 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=a35d57b38c3547b09f1bde5418d66e63
+2019-09-09 10:31:51,782 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=a35d57b38c3547b09f1bde5418d66e63
+2019-09-09 10:31:53,427 INFO:filesystem encoding: mbcs
+2019-09-09 10:31:53,430 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-09 10:31:53,431 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-09 10:31:56,269 INFO:[create_attachment] Attachment created: d2ce2738d814475e8f2e373b73b13012
+2019-09-09 10:31:56,269 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:31:56,269 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:31:58,898 INFO:[s3_mp_upload_file] Upload started for 2~RLE_W47G1P0d9mkUUx9ZE4cx7OVPTDEd2ce2738d814475e8f2e373b73b13012/README
+2019-09-09 10:31:58,901 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:32:01,930 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.03s; Rate:00.00MB/s]
+2019-09-09 10:32:01,930 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:32:04,538 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:32:04,538 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:32:07,276 INFO:[s3_mp_upload_file] Upload started for 2~e9y8dEHAQekYQ_sSUqAkJU_J1Q1ueuod2ce2738d814475e8f2e373b73b13012/test.txt
+2019-09-09 10:32:07,276 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:32:09,944 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.67s; Rate:00.00MB/s]
+2019-09-09 10:32:09,944 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:32:12,543 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-09 10:32:12,545 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-09 10:32:15,145 INFO:[s3_mp_upload_file] Upload started for 2~Uf1_83OM7cvPZ6PJLhpUWTkzBgOEhA5d2ce2738d814475e8f2e373b73b13012/test1.txt
+2019-09-09 10:32:15,147 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-09 10:32:17,857 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:02.71s; Rate:00.00MB/s]
+2019-09-09 10:32:17,858 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:32:20,453 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-09 10:32:20,453 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-09 10:32:23,789 INFO:[s3_mp_upload_file] Upload started for 2~TR64SQ_wu48xFPMZRogpYpMg2x3-pCOd2ce2738d814475e8f2e373b73b13012/test2.txt
+2019-09-09 10:32:23,790 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-09 10:32:26,447 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:02.66s; Rate:00.00MB/s]
+2019-09-09 10:32:26,447 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:32:29,200 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-09 10:32:29,200 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-09 10:32:32,033 INFO:[s3_mp_upload_file] Upload started for 2~0PL5O36o8nfTy8R-p572N8c4aGM3lykd2ce2738d814475e8f2e373b73b13012/test3.txt
+2019-09-09 10:32:32,036 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-09 10:32:48,256 INFO:filesystem encoding: mbcs
+2019-09-09 10:32:48,257 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-09 10:32:48,259 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-09 10:32:50,979 INFO:[create_attachment] Attachment created: 1c130a21e5da4056b35eabf5d48965b1
+2019-09-09 10:32:50,980 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:32:50,980 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:32:53,344 INFO:[s3_mp_upload_file] Upload started for 2~lGn9Qtsywd38v4u41GjnbWzDcwqEl4R1c130a21e5da4056b35eabf5d48965b1/README
+2019-09-09 10:32:53,348 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:32:55,697 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.35s; Rate:00.00MB/s]
+2019-09-09 10:32:55,697 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:32:59,655 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=1c130a21e5da4056b35eabf5d48965b1
+2019-09-09 10:32:59,657 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=1c130a21e5da4056b35eabf5d48965b1
+2019-09-09 10:33:01,303 INFO:filesystem encoding: mbcs
+2019-09-09 10:33:01,305 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-09 10:33:01,306 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-09 10:33:04,484 INFO:[create_attachment] Attachment created: d68c6ff0f29046d2b324929558531157
+2019-09-09 10:33:04,486 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:33:04,486 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:33:07,302 INFO:[s3_mp_upload_file] Upload started for 2~blZIQ0YyW-ItKouF92E2XAUWZ8dwN62d68c6ff0f29046d2b324929558531157/README
+2019-09-09 10:33:07,306 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:33:10,257 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.95s; Rate:00.00MB/s]
+2019-09-09 10:33:10,257 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:33:12,848 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:33:12,848 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:33:15,446 INFO:[s3_mp_upload_file] Upload started for 2~D1d7grNDoHOZkRtaCjnIp_y9yTzcI7od68c6ff0f29046d2b324929558531157/test.txt
+2019-09-09 10:33:15,447 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:33:18,089 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.64s; Rate:00.00MB/s]
+2019-09-09 10:33:18,091 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:33:20,719 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-09 10:33:20,719 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-09 10:33:23,293 INFO:[s3_mp_upload_file] Upload started for 2~Nyyi2EPVz8Hu7tK8BLLj1Nhjnx7d5_sd68c6ff0f29046d2b324929558531157/test1.txt
+2019-09-09 10:33:23,293 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-09 10:33:26,413 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:03.12s; Rate:00.00MB/s]
+2019-09-09 10:33:26,414 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:33:29,019 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-09 10:33:29,019 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-09 10:33:31,645 INFO:[s3_mp_upload_file] Upload started for 2~3SJHaKegz2VDGJtQFxXyN_WJSYVLK8ld68c6ff0f29046d2b324929558531157/test2.txt
+2019-09-09 10:33:31,648 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-09 10:33:34,740 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:03.09s; Rate:00.00MB/s]
+2019-09-09 10:33:34,742 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:33:38,732 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-09 10:33:38,732 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-09 10:33:41,420 INFO:[s3_mp_upload_file] Upload started for 2~c0wyW1IqkNinRL7FZAMkmuDVsEd8F32d68c6ff0f29046d2b324929558531157/test3.txt
+2019-09-09 10:33:41,426 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-09 10:33:44,098 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:02.67s; Rate:00.00MB/s]
+2019-09-09 10:33:44,098 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:33:46,704 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-09 10:33:46,706 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-09 10:33:49,316 INFO:[s3_mp_upload_file] Upload started for 2~649Apolhx51ws_F3_pmmLsvt_w1wEg5d68c6ff0f29046d2b324929558531157/test4.txt
+2019-09-09 10:33:49,318 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-09 10:33:52,045 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:02.73s; Rate:00.00MB/s]
+2019-09-09 10:33:52,046 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:33:59,292 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=d68c6ff0f29046d2b324929558531157
+2019-09-09 10:33:59,292 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=d68c6ff0f29046d2b324929558531157
+2019-09-09 10:34:00,815 INFO:filesystem encoding: mbcs
+2019-09-09 10:34:00,815 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-09 10:34:00,815 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}]
+2019-09-09 10:34:03,529 INFO:[create_attachment] Attachment created: 1781b777416f4341b5d931298ea20225
+2019-09-09 10:34:03,529 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:34:03,530 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:34:05,799 INFO:[s3_mp_upload_file] Upload started for 2~vaj3gycLwQyXZKrbCYXg0Kg6l8zDdPa1781b777416f4341b5d931298ea20225/README
+2019-09-09 10:34:05,802 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:34:08,163 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.36s; Rate:00.00MB/s]
+2019-09-09 10:34:08,164 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:34:10,292 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:34:10,292 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:34:12,532 INFO:[s3_mp_upload_file] Upload started for 2~ipvXN4PX1_ZMItCGy3LEYucUVv6n40Z1781b777416f4341b5d931298ea20225/test.txt
+2019-09-09 10:34:12,532 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:34:14,739 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.21s; Rate:00.00MB/s]
+2019-09-09 10:34:14,740 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:34:23,207 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=1781b777416f4341b5d931298ea20225
+2019-09-09 10:34:23,207 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=1781b777416f4341b5d931298ea20225
+2019-09-09 10:34:24,660 INFO:filesystem encoding: mbcs
+2019-09-09 10:34:24,661 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'kalavani.t@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-09 10:34:24,661 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-09 10:34:27,404 INFO:[create_attachment] Attachment created: 7bca493f9b6d4cbd97691bc2459868c0
+2019-09-09 10:34:27,404 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:34:27,404 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:34:34,104 INFO:[s3_mp_upload_file] Upload started for 2~Tnilfr6lT-Nqjfho9HZwN_fTVQPiYeD7bca493f9b6d4cbd97691bc2459868c0/README
+2019-09-09 10:34:34,108 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:34:36,479 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.37s; Rate:00.00MB/s]
+2019-09-09 10:34:36,479 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:34:40,441 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=7bca493f9b6d4cbd97691bc2459868c0
+2019-09-09 10:34:40,443 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=7bca493f9b6d4cbd97691bc2459868c0
+2019-09-09 10:34:41,857 INFO:filesystem encoding: mbcs
+2019-09-09 10:34:41,858 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/special+char-.txt'], 'description': 'Test Description'}
+2019-09-09 10:34:41,858 INFO:[prepare_attachment] Attachment_files, [{'name': 'special+char-.txt', 'size': 17L}]
+2019-09-09 10:34:44,566 INFO:[create_attachment] Attachment created: b46d8a5ee65847d08732760c987226fb
+2019-09-09 10:34:44,566 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/special+char-.txt
+2019-09-09 10:34:44,568 INFO:[s3_mp_upload_init] Initializing multipart upload for special+char-.txt
+2019-09-09 10:34:46,798 INFO:[s3_mp_upload_file] Upload started for 2~C8DaD7TJ1RugnFdEbcAqxhuZUIzdIUab46d8a5ee65847d08732760c987226fb/special+char-.txt
+2019-09-09 10:34:46,802 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/special+char-.txt
+2019-09-09 10:34:49,006 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/special+char-.txt. [Size:17 bytes; Duration:02.20s; Rate:00.00MB/s]
+2019-09-09 10:34:49,006 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:34:53,744 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=b46d8a5ee65847d08732760c987226fb
+2019-09-09 10:34:53,744 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=b46d8a5ee65847d08732760c987226fb
+2019-09-09 10:34:55,552 INFO:filesystem encoding: mbcs
+2019-09-09 10:34:55,553 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '833-022515_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 14, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': None, 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': None, 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-09 10:34:55,555 INFO:[prepare_attachment] Attachment_files, [{'name': 'test.txt', 'size': 11L}]
+2019-09-09 10:34:58,246 INFO:[create_attachment] Attachment created: 109615b97d2d44bd84c95e1a256129aa
+2019-09-09 10:34:58,246 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:34:58,246 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:35:00,457 INFO:[s3_mp_upload_file] Upload started for 2~EcAMK-xnSX_ZgamB4WEMO4LR16w6AcS109615b97d2d44bd84c95e1a256129aa/test.txt
+2019-09-09 10:35:00,460 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:35:02,678 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.22s; Rate:00.00MB/s]
+2019-09-09 10:35:02,678 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:35:06,757 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=109615b97d2d44bd84c95e1a256129aa
+2019-09-09 10:35:06,759 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=109615b97d2d44bd84c95e1a256129aa
+2019-09-09 10:36:17,066 INFO:filesystem encoding: mbcs
+2019-09-09 10:36:17,069 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-09 10:36:17,069 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-09 10:36:19,864 INFO:[create_attachment] Attachment created: b4bcfa0918a14527a12aa99aaf47b0d8
+2019-09-09 10:36:19,865 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:36:19,865 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:36:21,987 INFO:[s3_mp_upload_file] Upload started for 2~AthLey5dbBP_hpEd1sX5MZEjBaRJfp1b4bcfa0918a14527a12aa99aaf47b0d8/README
+2019-09-09 10:36:21,990 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:36:24,483 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.49s; Rate:00.00MB/s]
+2019-09-09 10:36:24,483 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:36:28,677 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=b4bcfa0918a14527a12aa99aaf47b0d8
+2019-09-09 10:36:28,677 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=b4bcfa0918a14527a12aa99aaf47b0d8
+2019-09-09 10:36:30,101 INFO:filesystem encoding: mbcs
+2019-09-09 10:36:30,101 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-09 10:36:30,101 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-09 10:36:32,901 INFO:[create_attachment] Attachment created: 2f5cfffd109942db8dc194c955b2826d
+2019-09-09 10:36:32,901 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:36:32,901 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:36:35,500 INFO:[s3_mp_upload_file] Upload started for 2~79KMut3y7BHGPFbwqS3PFKTFoX90XyL2f5cfffd109942db8dc194c955b2826d/README
+2019-09-09 10:36:35,503 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:36:38,926 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.42s; Rate:00.00MB/s]
+2019-09-09 10:36:38,927 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:36:42,098 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:36:42,098 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:36:44,677 INFO:[s3_mp_upload_file] Upload started for 2~gtcmer3s0K7IpiuXEXAaMVrf1Gwdzq32f5cfffd109942db8dc194c955b2826d/test.txt
+2019-09-09 10:36:44,678 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:36:50,355 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:05.67s; Rate:00.00MB/s]
+2019-09-09 10:36:50,355 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:36:53,529 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-09 10:36:53,529 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-09 10:36:56,665 INFO:[s3_mp_upload_file] Upload started for 2~zu5_AtuoNBig7xxkgpUkIXnC9ir-2BB2f5cfffd109942db8dc194c955b2826d/test1.txt
+2019-09-09 10:36:56,667 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-09 10:36:59,641 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:02.97s; Rate:00.00MB/s]
+2019-09-09 10:36:59,641 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:37:02,457 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-09 10:37:02,457 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-09 10:37:05,095 INFO:[s3_mp_upload_file] Upload started for 2~cxG1ubS877TODlzHGiilEkxrJcAHybQ2f5cfffd109942db8dc194c955b2826d/test2.txt
+2019-09-09 10:37:05,096 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-09 10:37:08,553 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:03.46s; Rate:00.00MB/s]
+2019-09-09 10:37:08,555 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:37:11,433 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-09 10:37:11,433 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-09 10:37:14,000 INFO:[s3_mp_upload_file] Upload started for 2~v3Y8zqfP1dhsIQ6Qmw-GU3fgaPaOvU52f5cfffd109942db8dc194c955b2826d/test3.txt
+2019-09-09 10:37:14,000 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-09 10:37:16,660 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:02.66s; Rate:00.00MB/s]
+2019-09-09 10:37:16,661 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:37:23,052 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-09 10:37:23,052 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-09 10:37:25,624 INFO:[s3_mp_upload_file] Upload started for 2~rODDM6YTOK9ezeivYdXcs8nFUMhhsaf2f5cfffd109942db8dc194c955b2826d/test4.txt
+2019-09-09 10:37:25,625 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-09 10:37:28,273 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:02.65s; Rate:00.00MB/s]
+2019-09-09 10:37:28,275 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:37:32,950 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=2f5cfffd109942db8dc194c955b2826d
+2019-09-09 10:37:32,950 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=2f5cfffd109942db8dc194c955b2826d
+2019-09-09 10:37:34,543 INFO:filesystem encoding: mbcs
+2019-09-09 10:37:34,545 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-09 10:37:34,545 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}]
+2019-09-09 10:37:37,438 INFO:[create_attachment] Attachment created: 15561baeb69e4bee97bb90da4c044a09
+2019-09-09 10:37:37,438 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:37:37,438 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:37:39,615 INFO:[s3_mp_upload_file] Upload started for 2~qtiguPhlnBjkPehk2zgKvWwk3GdG93G15561baeb69e4bee97bb90da4c044a09/README
+2019-09-09 10:37:39,618 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:37:41,957 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.34s; Rate:00.00MB/s]
+2019-09-09 10:37:41,959 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:37:44,092 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:37:44,092 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:37:46,463 INFO:[s3_mp_upload_file] Upload started for 2~1gkYmk6xYLEeNzE_nHHDdOl3fn4odWu15561baeb69e4bee97bb90da4c044a09/test.txt
+2019-09-09 10:37:46,466 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:37:48,707 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.24s; Rate:00.00MB/s]
+2019-09-09 10:37:48,709 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:37:52,979 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=15561baeb69e4bee97bb90da4c044a09
+2019-09-09 10:37:52,979 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=15561baeb69e4bee97bb90da4c044a09
+2019-09-09 10:37:54,611 INFO:filesystem encoding: mbcs
+2019-09-09 10:37:54,611 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'kalavani.t@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-09 10:37:54,612 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-09 10:37:57,408 INFO:[create_attachment] Attachment created: 88ec36313caf4d5494b1bb28607073e7
+2019-09-09 10:37:57,408 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:37:57,408 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:37:59,790 INFO:[s3_mp_upload_file] Upload started for 2~DHggU-zUxR_mHZ0Ghn9TFkX6uO2RJ0Y88ec36313caf4d5494b1bb28607073e7/README
+2019-09-09 10:37:59,796 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:38:02,160 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.36s; Rate:00.00MB/s]
+2019-09-09 10:38:02,161 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:38:06,539 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=88ec36313caf4d5494b1bb28607073e7
+2019-09-09 10:38:06,540 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=88ec36313caf4d5494b1bb28607073e7
+2019-09-09 10:38:08,211 INFO:filesystem encoding: mbcs
+2019-09-09 10:38:08,213 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/special+char-.txt'], 'description': 'Test Description'}
+2019-09-09 10:38:08,213 INFO:[prepare_attachment] Attachment_files, [{'name': 'special+char-.txt', 'size': 17L}]
+2019-09-09 10:38:12,647 INFO:[create_attachment] Attachment created: 5e0d73ac744148048c758af1ceb05044
+2019-09-09 10:38:12,647 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/special+char-.txt
+2019-09-09 10:38:12,648 INFO:[s3_mp_upload_init] Initializing multipart upload for special+char-.txt
+2019-09-09 10:38:14,789 INFO:[s3_mp_upload_file] Upload started for 2~k47jxVxsiOcJlnad3mN-wC2Xnko3xi55e0d73ac744148048c758af1ceb05044/special+char-.txt
+2019-09-09 10:38:14,793 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/special+char-.txt
+2019-09-09 10:38:17,137 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/special+char-.txt. [Size:17 bytes; Duration:02.34s; Rate:00.00MB/s]
+2019-09-09 10:38:17,137 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:38:21,111 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=5e0d73ac744148048c758af1ceb05044
+2019-09-09 10:38:21,111 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=5e0d73ac744148048c758af1ceb05044
+2019-09-09 10:38:23,059 INFO:filesystem encoding: mbcs
+2019-09-09 10:38:23,061 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '833-022515_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 14, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': None, 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': None, 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-09 10:38:23,062 INFO:[prepare_attachment] Attachment_files, [{'name': 'test.txt', 'size': 11L}]
+2019-09-09 10:38:26,055 INFO:[create_attachment] Attachment created: 8e63fced28924b03a8916f371d7cbc58
+2019-09-09 10:38:26,055 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:38:26,056 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:38:28,329 INFO:[s3_mp_upload_file] Upload started for 2~zqPym4Hp_WVC0Gh6itljJu6SryBaAm58e63fced28924b03a8916f371d7cbc58/test.txt
+2019-09-09 10:38:28,332 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:38:30,529 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.20s; Rate:00.00MB/s]
+2019-09-09 10:38:30,529 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:38:34,467 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=8e63fced28924b03a8916f371d7cbc58
+2019-09-09 10:38:34,467 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=8e63fced28924b03a8916f371d7cbc58
+2019-09-09 10:48:07,493 INFO:filesystem encoding: mbcs
+2019-09-09 10:48:07,493 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-09 10:48:07,493 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-09 10:48:10,211 INFO:[create_attachment] Attachment created: fd4363a1d0f844a1aab4b4c261bb0c10
+2019-09-09 10:48:10,211 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:48:10,211 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:48:12,852 INFO:[s3_mp_upload_file] Upload started for 2~WSBZsgfyw6QXCKTPC46vTO8NPLuUzGGfd4363a1d0f844a1aab4b4c261bb0c10/README
+2019-09-09 10:48:12,868 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:48:15,384 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.52s; Rate:00.00MB/s]
+2019-09-09 10:48:15,384 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:48:19,479 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=fd4363a1d0f844a1aab4b4c261bb0c10
+2019-09-09 10:48:19,479 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=fd4363a1d0f844a1aab4b4c261bb0c10
+2019-09-09 10:48:20,963 INFO:filesystem encoding: mbcs
+2019-09-09 10:48:20,963 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-09 10:48:20,963 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-09 10:48:23,855 INFO:[create_attachment] Attachment created: 13a643265e224e7c9b25a7820176c53d
+2019-09-09 10:48:23,855 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:48:23,855 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:48:26,653 INFO:[s3_mp_upload_file] Upload started for 2~wXvEwCybBwT0V4S6Zs7ytmap4_UBvG_13a643265e224e7c9b25a7820176c53d/README
+2019-09-09 10:48:26,653 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:48:29,621 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.97s; Rate:00.00MB/s]
+2019-09-09 10:48:29,621 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:48:32,263 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:48:32,263 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:48:34,858 INFO:[s3_mp_upload_file] Upload started for 2~bHYyUp5JR33Bwg4enuk22GDVdziSjum13a643265e224e7c9b25a7820176c53d/test.txt
+2019-09-09 10:48:34,858 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:48:37,529 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.67s; Rate:00.00MB/s]
+2019-09-09 10:48:37,529 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:48:40,155 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-09 10:48:40,155 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-09 10:48:42,766 INFO:[s3_mp_upload_file] Upload started for 2~ngLS4hfXuL4jnXzg1TBJ7d-yVDNfQnD13a643265e224e7c9b25a7820176c53d/test1.txt
+2019-09-09 10:48:42,766 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-09 10:48:45,548 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:02.78s; Rate:00.00MB/s]
+2019-09-09 10:48:45,548 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:48:48,319 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-09 10:48:48,319 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-09 10:48:51,009 INFO:[s3_mp_upload_file] Upload started for 2~YAqBi1zkM7b_2GduZykzOGxj9n7wa9A13a643265e224e7c9b25a7820176c53d/test2.txt
+2019-09-09 10:48:51,010 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-09 10:48:53,734 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:02.72s; Rate:00.00MB/s]
+2019-09-09 10:48:53,740 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:48:56,532 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-09 10:48:56,533 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-09 10:48:59,200 INFO:[s3_mp_upload_file] Upload started for 2~NtSLiNGhjm78cy3cPhRhHrt6cIG8VY813a643265e224e7c9b25a7820176c53d/test3.txt
+2019-09-09 10:48:59,203 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-09 10:49:04,552 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:05.35s; Rate:00.00MB/s]
+2019-09-09 10:49:04,552 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:49:07,286 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-09 10:49:07,288 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-09 10:49:09,869 INFO:[s3_mp_upload_file] Upload started for 2~2Mqn_7rrQ1OFsy_xiUskQpn1xIWZpx513a643265e224e7c9b25a7820176c53d/test4.txt
+2019-09-09 10:49:09,871 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-09 10:49:12,647 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:02.78s; Rate:00.00MB/s]
+2019-09-09 10:49:12,648 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:49:17,377 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=13a643265e224e7c9b25a7820176c53d
+2019-09-09 10:49:17,378 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=13a643265e224e7c9b25a7820176c53d
+2019-09-09 10:49:21,792 INFO:filesystem encoding: mbcs
+2019-09-09 10:49:21,793 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-09 10:49:21,795 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}]
+2019-09-09 10:49:25,757 INFO:[create_attachment] Attachment created: 0dcdf4b440f44bd494d955e420153e54
+2019-09-09 10:49:25,757 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:49:25,759 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:49:27,970 INFO:[s3_mp_upload_file] Upload started for 2~pD8pzBeE9fvxBzSiYAMF-OqDryb3TiX0dcdf4b440f44bd494d955e420153e54/README
+2019-09-09 10:49:27,974 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:49:30,552 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.58s; Rate:00.00MB/s]
+2019-09-09 10:49:30,552 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:49:32,776 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:49:32,778 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:49:35,039 INFO:[s3_mp_upload_file] Upload started for 2~SVL_C0Cip-f3RPSUm4AUe-_-jZVoiLk0dcdf4b440f44bd494d955e420153e54/test.txt
+2019-09-09 10:49:35,040 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:49:37,371 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.33s; Rate:00.00MB/s]
+2019-09-09 10:49:37,372 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:49:41,683 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=0dcdf4b440f44bd494d955e420153e54
+2019-09-09 10:49:41,683 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=0dcdf4b440f44bd494d955e420153e54
+2019-09-09 10:49:44,799 INFO:filesystem encoding: mbcs
+2019-09-09 10:49:44,799 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'kalavani.t@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-09 10:49:44,801 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-09 10:49:48,545 INFO:[create_attachment] Attachment created: 63a483a031054779a5b751e10e7c50f1
+2019-09-09 10:49:48,545 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-09 10:49:48,546 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-09 10:49:50,789 INFO:[s3_mp_upload_file] Upload started for 2~zkSCkhqT89us5aDbV75YLWNOKE0JnVX63a483a031054779a5b751e10e7c50f1/README
+2019-09-09 10:49:50,793 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-09 10:49:53,552 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.76s; Rate:00.00MB/s]
+2019-09-09 10:49:53,552 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:50:04,091 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=63a483a031054779a5b751e10e7c50f1
+2019-09-09 10:50:04,092 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=63a483a031054779a5b751e10e7c50f1
+2019-09-09 10:50:08,056 INFO:filesystem encoding: mbcs
+2019-09-09 10:50:08,075 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/special+char-.txt'], 'description': 'Test Description'}
+2019-09-09 10:50:08,075 INFO:[prepare_attachment] Attachment_files, [{'name': 'special+char-.txt', 'size': 17L}]
+2019-09-09 10:50:12,013 INFO:[create_attachment] Attachment created: 7cc044d64dcf4f899732bef700d33dae
+2019-09-09 10:50:12,015 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/special+char-.txt
+2019-09-09 10:50:12,015 INFO:[s3_mp_upload_init] Initializing multipart upload for special+char-.txt
+2019-09-09 10:50:14,171 INFO:[s3_mp_upload_file] Upload started for 2~FAkSBDm3HTUyQMncwOgMg0L4HrpB1DU7cc044d64dcf4f899732bef700d33dae/special+char-.txt
+2019-09-09 10:50:14,176 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/special+char-.txt
+2019-09-09 10:50:16,594 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/special+char-.txt. [Size:17 bytes; Duration:02.42s; Rate:00.00MB/s]
+2019-09-09 10:50:16,594 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:50:20,749 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=7cc044d64dcf4f899732bef700d33dae
+2019-09-09 10:50:20,749 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=7cc044d64dcf4f899732bef700d33dae
+2019-09-09 10:50:23,653 INFO:filesystem encoding: mbcs
+2019-09-09 10:50:23,654 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '833-022515_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 14, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': None, 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': None, 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-09 10:50:23,654 INFO:[prepare_attachment] Attachment_files, [{'name': 'test.txt', 'size': 11L}]
+2019-09-09 10:50:27,161 INFO:[create_attachment] Attachment created: b270adbc15094f1c87c8ea38018eb133
+2019-09-09 10:50:27,163 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-09 10:50:27,163 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-09 10:50:29,825 INFO:[s3_mp_upload_file] Upload started for 2~Gq_bFhTjG-pUA4jT-Fs_XZPQVkIw3BTb270adbc15094f1c87c8ea38018eb133/test.txt
+2019-09-09 10:50:29,828 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-09 10:50:32,178 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.35s; Rate:00.00MB/s]
+2019-09-09 10:50:32,178 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-09 10:50:36,229 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=b270adbc15094f1c87c8ea38018eb133
+2019-09-09 10:50:36,229 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=b270adbc15094f1c87c8ea38018eb133
+2019-09-11 16:08:13,832 INFO:filesystem encoding: mbcs
+2019-09-11 16:08:13,834 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-11 16:08:13,834 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-11 16:08:16,905 INFO:[create_attachment] Attachment created: 03b99e2cf0a44032a96280f1607fd4b2
+2019-09-11 16:08:16,907 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-11 16:08:16,907 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-11 16:08:19,184 INFO:[s3_mp_upload_file] Upload started for 2~yDY9T-wqItI1rNabC7fR5_wf5GEQjt703b99e2cf0a44032a96280f1607fd4b2/README
+2019-09-12 12:31:14,548 INFO:filesystem encoding: mbcs
+2019-09-12 12:31:14,549 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-12 12:31:14,549 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-12 12:31:17,470 INFO:[create_attachment] Attachment created: 90022602df344a639215d69a76cca6da
+2019-09-12 12:31:17,470 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-12 12:31:17,470 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-12 12:31:19,963 INFO:[s3_mp_upload_file] Upload started for 2~U9T2VOKWf3P8vMR1niYmQ0JqjK4_PFE90022602df344a639215d69a76cca6da/README
+2019-09-12 12:31:19,967 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-12 12:31:22,401 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.43s; Rate:00.00MB/s]
+2019-09-12 12:31:22,401 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 12:31:26,529 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=90022602df344a639215d69a76cca6da
+2019-09-12 12:31:26,529 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=90022602df344a639215d69a76cca6da
+2019-09-12 12:31:27,966 INFO:filesystem encoding: mbcs
+2019-09-12 12:31:27,967 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-12 12:31:27,969 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-12 12:31:30,878 INFO:[create_attachment] Attachment created: e293b606590541bb8d5e67388f82f6fd
+2019-09-12 12:31:30,878 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-12 12:31:30,878 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-12 12:31:33,676 INFO:[s3_mp_upload_file] Upload started for 2~y7l0qSLw03oeo_InOwVM2oBXHpfuZrne293b606590541bb8d5e67388f82f6fd/README
+2019-09-12 12:31:33,680 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-12 12:31:36,766 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.08s; Rate:00.00MB/s]
+2019-09-12 12:31:36,766 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 12:31:39,503 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-12 12:31:39,503 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-12 12:31:42,236 INFO:[s3_mp_upload_file] Upload started for 2~gsMHK5GaKdA8CJVQbDcy8rP1PAkUj_fe293b606590541bb8d5e67388f82f6fd/test.txt
+2019-09-12 12:31:42,236 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-12 12:31:45,200 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.96s; Rate:00.00MB/s]
+2019-09-12 12:31:45,200 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 12:31:47,921 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-12 12:31:47,921 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-12 12:31:50,880 INFO:[s3_mp_upload_file] Upload started for 2~V3ekaKCrqi3zUtbmCJIBUHJMEGA0y4Ye293b606590541bb8d5e67388f82f6fd/test1.txt
+2019-09-12 12:31:50,881 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-12 12:31:53,635 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:02.75s; Rate:00.00MB/s]
+2019-09-12 12:31:53,637 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 12:31:56,325 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-12 12:31:56,325 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-12 12:31:59,049 INFO:[s3_mp_upload_file] Upload started for 2~rI6qZimoCRsmPf2u-hMix2vqPNZBuKDe293b606590541bb8d5e67388f82f6fd/test2.txt
+2019-09-12 12:31:59,049 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-12 12:32:01,917 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:02.87s; Rate:00.00MB/s]
+2019-09-12 12:32:01,917 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 12:32:04,739 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-12 12:32:04,740 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-12 12:32:07,628 INFO:[s3_mp_upload_file] Upload started for 2~nInSN7qV4JGrZMffoq_MYqVYVJyyLoNe293b606590541bb8d5e67388f82f6fd/test3.txt
+2019-09-12 12:32:07,632 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-12 12:32:10,414 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:02.78s; Rate:00.00MB/s]
+2019-09-12 12:32:10,414 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 12:32:13,104 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-12 12:32:13,104 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-12 12:32:15,762 INFO:[s3_mp_upload_file] Upload started for 2~oS_0hGf1LJ3buOILUbOKaZr5LHuejcwe293b606590541bb8d5e67388f82f6fd/test4.txt
+2019-09-12 12:32:15,763 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-12 12:32:18,526 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:02.76s; Rate:00.00MB/s]
+2019-09-12 12:32:18,526 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 12:32:24,917 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=e293b606590541bb8d5e67388f82f6fd
+2019-09-12 12:32:24,918 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=e293b606590541bb8d5e67388f82f6fd
+2019-09-12 12:32:26,559 INFO:filesystem encoding: mbcs
+2019-09-12 12:32:26,561 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-12 12:32:26,561 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}]
+2019-09-12 12:32:29,427 INFO:[create_attachment] Attachment created: af1c158076db411295facebc1c7bbccb
+2019-09-12 12:32:29,428 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-12 12:32:29,428 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-12 12:32:31,615 INFO:[s3_mp_upload_file] Upload started for 2~pd369CtcUr0FTG-06Vb5Bgk4L5ZMPF2af1c158076db411295facebc1c7bbccb/README
+2019-09-12 12:32:31,619 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-12 12:32:33,984 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.37s; Rate:00.00MB/s]
+2019-09-12 12:32:33,984 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 12:32:36,154 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-12 12:32:36,154 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-12 12:32:38,332 INFO:[s3_mp_upload_file] Upload started for 2~WMgvUAo-eniFgf_Y3iAH34fgt5nttnfaf1c158076db411295facebc1c7bbccb/test.txt
+2019-09-12 12:32:38,334 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-12 12:32:40,539 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:02.20s; Rate:00.00MB/s]
+2019-09-12 12:32:40,539 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 12:32:44,631 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=af1c158076db411295facebc1c7bbccb
+2019-09-12 12:32:44,632 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=af1c158076db411295facebc1c7bbccb
+2019-09-12 12:32:46,096 INFO:filesystem encoding: mbcs
+2019-09-12 12:32:46,096 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'kalavani.t@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README'], 'description': 'Test Description'}
+2019-09-12 12:32:46,098 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}]
+2019-09-12 12:32:48,950 INFO:[create_attachment] Attachment created: f6579b6bd35e4d1eac583da5f5eebf24
+2019-09-12 12:32:48,950 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-12 12:32:48,951 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-12 12:32:51,174 INFO:[s3_mp_upload_file] Upload started for 2~xOlbdM81lM0XEEBYGL64gpxgGiOdKYsf6579b6bd35e4d1eac583da5f5eebf24/README
+2019-09-12 12:32:51,177 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-12 12:32:53,832 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:02.65s; Rate:00.00MB/s]
+2019-09-12 12:32:53,834 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 12:32:57,930 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=f6579b6bd35e4d1eac583da5f5eebf24
+2019-09-12 12:32:57,930 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=f6579b6bd35e4d1eac583da5f5eebf24
+2019-09-12 12:32:59,388 INFO:filesystem encoding: mbcs
+2019-09-12 12:32:59,388 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/special+char-.txt'], 'description': 'Test Description'}
+2019-09-12 12:32:59,388 INFO:[prepare_attachment] Attachment_files, [{'name': 'special+char-.txt', 'size': 17L}]
+2019-09-12 12:33:02,296 INFO:[create_attachment] Attachment created: b05cb47e3ead44578e098e1f4d1c9a5e
+2019-09-12 12:33:02,296 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/special+char-.txt
+2019-09-12 12:33:02,296 INFO:[s3_mp_upload_init] Initializing multipart upload for special+char-.txt
+2019-09-12 12:33:04,681 INFO:[s3_mp_upload_file] Upload started for 2~RovuGqqZ_9NmbibUZEsMbyI5ksuBR13b05cb47e3ead44578e098e1f4d1c9a5e/special+char-.txt
+2019-09-12 12:33:04,684 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/special+char-.txt
+2019-09-12 12:33:06,950 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/special+char-.txt. [Size:17 bytes; Duration:02.26s; Rate:00.00MB/s]
+2019-09-12 12:33:06,950 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 12:33:10,826 ERROR:DEBUGGING INFO
+2019-09-12 12:33:10,826 ERROR:http_status_code:403
+2019-09-12 12:33:10,826 ERROR:http_status_text:forbidden
+2019-09-12 12:33:10,828 ERROR:http_text:{"error":{"code":403,"message":"Invalid keyId, algorithm, or signature.","url":"/xe4dd3ac/Privacy_Restricted_Data_Rules.pdf"}}
+2019-09-12 12:33:10,828 ERROR:http_json:None
+2019-09-12 12:33:10,828 ERROR:/DEBUGGING INFO
+2019-09-12 12:33:10,828 ERROR:ERROR: Error during upload complete [1]
+2019-09-12 12:33:12,427 INFO:filesystem encoding: mbcs
+2019-09-12 12:33:12,427 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '833-022515_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 14, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': None, 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': None, 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/test.txt'], 'description': 'Test Description'}
+2019-09-12 12:33:12,427 INFO:[prepare_attachment] Attachment_files, [{'name': 'test.txt', 'size': 11L}]
+2019-09-12 12:33:15,059 ERROR:ERROR: Token rejected. Please get a new token.
+2019-09-12 12:33:15,059 ERROR:DEBUGGING INFO
+2019-09-12 12:33:15,059 ERROR:http_status_code:403
+2019-09-12 12:33:15,061 ERROR:http_status_text:forbidden
+2019-09-12 12:33:15,061 ERROR:http_text:{"error":{"code":403,"message":"Invalid keyId, algorithm, or signature.","url":"/xe4dd3ac/Privacy_Restricted_Data_Rules.pdf"}}
+2019-09-12 12:33:15,061 ERROR:http_json:{u'error': {u'url': u'/xe4dd3ac/Privacy_Restricted_Data_Rules.pdf', u'message': u'Invalid keyId, algorithm, or signature.', u'code': 403}}
+2019-09-12 12:33:15,061 ERROR:/DEBUGGING INFO
+2019-09-12 12:33:15,061 ERROR:ERROR: Error during create attachment [7]
+2019-09-12 12:33:15,062 ERROR:CAPS Response: Invalid keyId, algorithm, or signature.
+2019-09-12 12:37:09,657 INFO:filesystem encoding: mbcs
+2019-09-12 12:37:09,657 INFO:[prepare_attachment] Called with {'customer': 469657, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'pramoda.devi_b@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/special+char-.txt'], 'description': 'Test Description'}
+2019-09-12 12:37:09,658 INFO:[prepare_attachment] Attachment_files, [{'name': 'special+char-.txt', 'size': 17L}]
+2019-09-12 12:37:12,940 INFO:[create_attachment] Attachment created: 60dac67970234cc1981e82561b77d436
+2019-09-12 12:37:12,941 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/special+char-.txt
+2019-09-12 12:37:12,941 INFO:[s3_mp_upload_init] Initializing multipart upload for special+char-.txt
+2019-09-12 12:37:15,559 INFO:[s3_mp_upload_file] Upload started for 2~DbcXjQzyJVOubPIYcBWefs17T72wObP60dac67970234cc1981e82561b77d436/special+char-.txt
+2019-09-12 12:37:15,562 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/special+char-.txt
+2019-09-12 12:37:17,851 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/special+char-.txt. [Size:17 bytes; Duration:02.29s; Rate:00.00MB/s]
+2019-09-12 12:37:17,851 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 12:37:22,085 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=60dac67970234cc1981e82561b77d436
+2019-09-12 12:37:22,085 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=60dac67970234cc1981e82561b77d436
+2019-09-12 16:26:41,720 INFO:filesystem encoding: mbcs
+2019-09-12 16:26:41,720 INFO:[prepare_attachment] Called with {'customer': 434383, 'productrel': None, 'product': '134-080167_00', 'fiddler': False, 'log': 'mylog.log', 'classification': 12, 'emaillist': 'vishnukant.h@nokia.com', 'datatypecode': ' NETACT_CM', 'qa': True, 'cert': 'capscli/mytoken.tok', 'service': 'CARE', 'command': 'ul', 'purpose': 'Test Purpose', 'debug': False, 'ticketapp': 'REFRA', 'ticket': None, 'retention': 1, 'config': None, 'files': ['capscli/test_files/README', 'capscli/test_files/test.txt', 'capscli/test_files/test1.txt', 'capscli/test_files/test2.txt', 'capscli/test_files/test3.txt', 'capscli/test_files/test4.txt'], 'description': 'Test Description'}
+2019-09-12 16:26:41,723 INFO:[prepare_attachment] Attachment_files, [{'name': 'README', 'size': 5750L}, {'name': 'test.txt', 'size': 11L}, {'name': 'test1.txt', 'size': 5L}, {'name': 'test2.txt', 'size': 7L}, {'name': 'test3.txt', 'size': 7L}, {'name': 'test4.txt', 'size': 5L}]
+2019-09-12 16:26:44,736 INFO:[create_attachment] Attachment created: 73ea64ef3fe04383a355766ea0f512d8
+2019-09-12 16:26:44,736 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/README
+2019-09-12 16:26:44,740 INFO:[s3_mp_upload_init] Initializing multipart upload for README
+2019-09-12 16:26:47,913 INFO:[s3_mp_upload_file] Upload started for 2~r6D4AYJYNjlWmIfVR4Zs5mydm684g8n73ea64ef3fe04383a355766ea0f512d8/README
+2019-09-12 16:26:47,921 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/README
+2019-09-12 16:26:51,690 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/README. [Size:5750 bytes; Duration:03.77s; Rate:00.00MB/s]
+2019-09-12 16:26:51,690 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 16:26:55,092 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test.txt
+2019-09-12 16:26:55,092 INFO:[s3_mp_upload_init] Initializing multipart upload for test.txt
+2019-09-12 16:26:58,331 INFO:[s3_mp_upload_file] Upload started for 2~bQgEAbB1yWPksBEqazzBMwxF69oe_HB73ea64ef3fe04383a355766ea0f512d8/test.txt
+2019-09-12 16:26:58,331 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test.txt
+2019-09-12 16:27:01,721 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test.txt. [Size:11 bytes; Duration:03.39s; Rate:00.00MB/s]
+2019-09-12 16:27:01,721 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 16:27:04,819 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test1.txt
+2019-09-12 16:27:04,819 INFO:[s3_mp_upload_init] Initializing multipart upload for test1.txt
+2019-09-12 16:27:07,924 INFO:[s3_mp_upload_file] Upload started for 2~teK0Z3yuuXPVl9CqrsAgJaLc9GWxMyk73ea64ef3fe04383a355766ea0f512d8/test1.txt
+2019-09-12 16:27:07,924 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test1.txt
+2019-09-12 16:27:11,648 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test1.txt. [Size:5 bytes; Duration:03.72s; Rate:00.00MB/s]
+2019-09-12 16:27:11,648 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 16:27:14,622 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test2.txt
+2019-09-12 16:27:14,622 INFO:[s3_mp_upload_init] Initializing multipart upload for test2.txt
+2019-09-12 16:27:17,756 INFO:[s3_mp_upload_file] Upload started for 2~V06p18H6HTgvnTGowGWrili4c5Z1aKS73ea64ef3fe04383a355766ea0f512d8/test2.txt
+2019-09-12 16:27:17,759 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test2.txt
+2019-09-12 16:27:21,040 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test2.txt. [Size:7 bytes; Duration:03.28s; Rate:00.00MB/s]
+2019-09-12 16:27:21,040 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 16:27:24,085 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test3.txt
+2019-09-12 16:27:24,085 INFO:[s3_mp_upload_init] Initializing multipart upload for test3.txt
+2019-09-12 16:27:27,157 INFO:[s3_mp_upload_file] Upload started for 2~cSM3KiFqNalass-RRYiP90O3VfX0YiG73ea64ef3fe04383a355766ea0f512d8/test3.txt
+2019-09-12 16:27:27,161 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test3.txt
+2019-09-12 16:27:30,338 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test3.txt. [Size:7 bytes; Duration:03.18s; Rate:00.00MB/s]
+2019-09-12 16:27:30,338 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 16:27:33,424 INFO:[s3_mp_upload_file] Preparing upload for capscli/test_files/test4.txt
+2019-09-12 16:27:33,424 INFO:[s3_mp_upload_init] Initializing multipart upload for test4.txt
+2019-09-12 16:27:36,381 INFO:[s3_mp_upload_file] Upload started for 2~6wjttIYyYMFVurQ8Iy-KOYJSxUvp8uK73ea64ef3fe04383a355766ea0f512d8/test4.txt
+2019-09-12 16:27:36,381 INFO:[s3_mp_upload_file] Upload started for capscli/test_files/test4.txt
+2019-09-12 16:27:39,634 INFO:[s3_mp_upload_file] Upload completed for capscli/test_files/test4.txt. [Size:5 bytes; Duration:03.25s; Rate:00.00MB/s]
+2019-09-12 16:27:39,634 INFO:[s3_mp_upload_complete] Completing multipart upload
+2019-09-12 16:27:44,611 INFO:Nokia user download link : https://capsv.nokia.com/93f6cc8e/downloadattachment?id=73ea64ef3fe04383a355766ea0f512d8
+2019-09-12 16:27:44,611 INFO:External user download link: https://capsv.nokia.com/93f6cc8e/external/downloadattachment?id=73ea64ef3fe04383a355766ea0f512d8

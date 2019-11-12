@@ -1,0 +1,54 @@
+*** Settings ***
+Library           SSHLibrary
+Library           Collections
+Library           OperatingSystem
+
+*** Keywords ***
+Open and Login
+    [Arguments]    ${host}    ${user}    ${password}
+    ${ConnId} =    Open Connection    ${host}
+    Login    ${user}    ${password}
+    [Return]    ${ConnId}
+
+Run Cmd And Test Rval
+    [Arguments]    ${cmd}    ${expected value}=${0}    ${sleep}=${0}
+    [Documentation]    Runs command and tests return value.
+    ${err}    ${out}    ${rcode} =    Run Cmd And Return All    ${cmd}
+    Sleep    ${sleep}
+    Should Be Equal As Integers    ${rcode}    ${expected value}
+    [Return]    ${out}
+
+Run Cmd And Return All
+    [Arguments]    ${cmd}
+    [Documentation]    Runs command and returns strerr, stdout and return value.
+    ${rcode} =    Execute Command    cmd=`${cmd} 2>tmp.stderr 1>tmp.stdout` ; echo $?
+    Log    "Command executed: ${cmd}"
+    ${stdout} =    Execute Command    cat tmp.stdout
+    ${stderr} =    Execute Command    cat tmp.stderr
+    Log Many    "STDOUT ${stdout}"    "STDERR ${stderr}"
+    Execute Command    rm -f tmp.stdout tmp.stderr
+    [Return]    ${stderr}    ${stdout}    ${rcode}
+
+Test File Exists
+    [Arguments]    ${file}
+    [Documentation]    Test if file exists.
+    ...    Usage: Test File Exists <File>
+    ...    Example: Test File Exists /etc/resolv.conf
+    ${stderr}    ${stdout}    ${rval} =    Run Cmd And Return All2    /usr/bin/test -e ${file}
+    Run Keyword If    ${rval} > 0    Log Many    STDERR: ${stderr}    STDOUT: ${stdout}    EXIT CODE: ${rval}
+    Should Be Equal    ${rval}    0
+
+Run Cmd And Return All2
+    [Arguments]    ${cmd}
+    [Documentation]    Runs command and returns stderr, stdout and return value.
+    ${stdout}    ${stderr} =    Execute Command    echo "\$(${cmd};echo $? > rcode.txt)"    both
+    Log    "Command executed: ${cmd}"
+    ${rcode} =    Execute Command    cat rcode.txt;rm -f rcode.txt
+    Log Many    "STDOUT ${stdout}"    "STDERR ${stderr}"
+    [Return]    ${stderr}    ${stdout}    ${rcode}
+
+SSH execute Cmd
+    [Arguments]    ${client}    ${command}
+    ${stdout}    ${result}=    ssh execute command    ${client}    ${command}
+    Log    ${stdout}
+    [Return]    ${stdout}    ${result}

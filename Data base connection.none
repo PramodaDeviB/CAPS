@@ -1,0 +1,16 @@
+*** Settings ***
+Library           DatabaseLibrary
+
+*** Variables ***
+${DBHost}         %
+${DBName}         student
+${DBPass}         root
+${DBPort}         3306
+${DBUser}         student
+
+*** Test Cases ***
+sample_connection${
+    [Setup]
+    Connect To Database    pymysql    ${DBName}    ${DBUser}    ${DBPass}    ${DBHost}    ${DBPort}
+
+*** Keywords ***

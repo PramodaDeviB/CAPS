@@ -1,0 +1,35 @@
+0:2 Remote or Physical Access to US or USG Customer Networks
+1:12 General IT Support
+2:352 Manager Only
+4:282 ClassA Manager Only
+5:22 Development
+6:342 Tier 4 Development
+7:92 IT Support
+8:42 Maintenance & Life Cycle Support
+9:72 Retrofit Services
+10:62 Sales
+11:52 Maintenance & Lifecycle Support Tier 1-3 (no direct access to domestic networks)
+12:102 Tier 4 Development Support
+13:122 Maintenance & Life Cycle Support
+14:152 Retrofit Services
+15:302 IS/IT Manager Only
+16:132 Maintenance Tier 1-3 Support (no direct access to domestic networks)
+17:162 Development
+18:172 IT Support
+19:182 Development
+20:202 IT Support
+21:212 Gatekeeper
+22:322 IS/IT Manager Only SRN
+23:32 Installation Support Class A and SDHLR
+24:242 IT Support
+25:222 NOC Services
+26:232 NOC Technical Assistance
+27:82 Remote Integration Testing Centers
+28:272 Remote Access
+29:262 Tier 1-3 Support (Include Sales, Finance roles)
+30:362 Rotta read-only access
+31:372 Rotta read-write access
+32:382 Tier 1-3 support
+33:383 GWC ALL
+34:384 GWC NSB
+35:385 Sensitive Data Access Authorization
